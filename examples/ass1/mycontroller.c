@@ -34,7 +34,9 @@ uint16_t datalen)
 // LOG_INFO("\n");
 // Transfer "data" to "Sensor" class
 struct Sensor sensor = *(struct Sensor*) data;
-LOG_INFO("#%u Temperature: %f, Humidity: %f, Pressure: %f\n", sensor.count,
+LOG_INFO_6ADDR(sender_addr);
+
+LOG_INFO(":#%u Temperature: %f, Humidity: %f, Pressure: %f\n", sensor.count,
 (double) sensor.temperature,
 (double) sensor.humidity, (double) sensor.pressure);
 #if WITH_CONTROLLER_REPLY

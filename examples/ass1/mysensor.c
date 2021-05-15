@@ -63,9 +63,9 @@ amplification_factor, fading_factor);
 if(NETSTACK_ROUTING.node_is_reachable() &&
 NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
 if(sensor.count<=30){
-LOG_INFO("Sending collected data #%u to ", sensor.count);
-LOG_INFO_6ADDR(&dest_ipaddr);
-LOG_INFO_("\n");
+// LOG_INFO("Sending collected data #%u to ", sensor.count);
+// LOG_INFO_6ADDR(&dest_ipaddr);
+// LOG_INFO_("\n");
 // Send the stuct "sensor" to destination
 simple_udp_sendto(&udp_connection, &sensor, sizeof(sensor),
 &dest_ipaddr);
@@ -73,7 +73,7 @@ sensor.count++;
 
 }
 else{
-    LOG_INFO("Max reached\n");
+    // LOG_INFO("Max reached\n");
 
 }
 
