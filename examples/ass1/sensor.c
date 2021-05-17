@@ -34,7 +34,7 @@ return sum * production;
 }
 // Calculate the Gaussian Distribution vaule of num
 float gaussian(float num) {
-float temp = my_exp(-0.5 * num * num) * sqrt(2 * PI);
+float temp = my_exp(-0.5 * num * num) / sqrt(2 * PI);
 return temp;
 }
 // Read temperature from sensor

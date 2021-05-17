@@ -62,7 +62,7 @@ amplification_factor, fading_factor);
 // Determine whether the controller is reachable
 if(NETSTACK_ROUTING.node_is_reachable() &&
 NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
-if(sensor.count<=30){
+if(sensor.count<30){
 // LOG_INFO("Sending collected data #%u to ", sensor.count);
 // LOG_INFO_6ADDR(&dest_ipaddr);
 // LOG_INFO_("\n");

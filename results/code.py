@@ -3,7 +3,7 @@ class data:
     self.Temperature = Temperature
     self.Humidity = Humidity
     self.Pressure = Pressure
-txtdata = open("1.txt", "r")
+txtdata = open("5.txt", "r")
 sensorsdic={}
 for line in txtdata:
     splitarray=line.split("	")
@@ -21,4 +21,9 @@ for line in txtdata:
         sensorsdic.setdefault(addr,[]).append(newobj)
 
     # break
-print(len(sensorsdic["fd00::206:6:6:6"]))
+
+# print(len(sensorsdic["fd00::206:6:6:6"]))
+keys=sensorsdic.keys()
+
+
+print(sensorsdic.keys())
