@@ -1,0 +1,1097 @@
+00:00.035	ID:24	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.035	ID:24	[INFO: Main      ] - Routing: RPL Lite
+00:00.035	ID:24	[INFO: Main      ] - Net: sicslowpan
+00:00.035	ID:24	[INFO: Main      ] - MAC: CSMA
+00:00.035	ID:24	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.035	ID:24	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.035	ID:24	[INFO: Main      ] Node ID: 24
+00:00.035	ID:24	[INFO: Main      ] Link-layer address: 0018.0018.0018.0018
+00:00.035	ID:24	[INFO: Main      ] Tentative link-local IPv6 address: fe80::218:18:18:18
+00:00.073	ID:8	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.073	ID:8	[INFO: Main      ] - Routing: RPL Lite
+00:00.073	ID:8	[INFO: Main      ] - Net: sicslowpan
+00:00.073	ID:8	[INFO: Main      ] - MAC: CSMA
+00:00.073	ID:8	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.073	ID:8	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.073	ID:8	[INFO: Main      ] Node ID: 8
+00:00.073	ID:8	[INFO: Main      ] Link-layer address: 0008.0008.0008.0008
+00:00.073	ID:8	[INFO: Main      ] Tentative link-local IPv6 address: fe80::208:8:8:8
+00:00.190	ID:11	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.190	ID:11	[INFO: Main      ] - Routing: RPL Lite
+00:00.190	ID:11	[INFO: Main      ] - Net: sicslowpan
+00:00.190	ID:11	[INFO: Main      ] - MAC: CSMA
+00:00.190	ID:11	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.190	ID:11	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.190	ID:11	[INFO: Main      ] Node ID: 11
+00:00.190	ID:11	[INFO: Main      ] Link-layer address: 000b.000b.000b.000b
+00:00.190	ID:11	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20b:b:b:b
+00:00.236	ID:2	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.236	ID:2	[INFO: Main      ] - Routing: RPL Lite
+00:00.236	ID:2	[INFO: Main      ] - Net: sicslowpan
+00:00.236	ID:2	[INFO: Main      ] - MAC: CSMA
+00:00.236	ID:2	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.236	ID:2	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.236	ID:2	[INFO: Main      ] Node ID: 2
+00:00.236	ID:2	[INFO: Main      ] Link-layer address: 0002.0002.0002.0002
+00:00.236	ID:2	[INFO: Main      ] Tentative link-local IPv6 address: fe80::202:2:2:2
+00:00.250	ID:6	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.250	ID:6	[INFO: Main      ] - Routing: RPL Lite
+00:00.250	ID:6	[INFO: Main      ] - Net: sicslowpan
+00:00.250	ID:6	[INFO: Main      ] - MAC: CSMA
+00:00.250	ID:6	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.250	ID:6	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.250	ID:6	[INFO: Main      ] Node ID: 6
+00:00.250	ID:6	[INFO: Main      ] Link-layer address: 0006.0006.0006.0006
+00:00.250	ID:6	[INFO: Main      ] Tentative link-local IPv6 address: fe80::206:6:6:6
+00:00.326	ID:18	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.326	ID:18	[INFO: Main      ] - Routing: RPL Lite
+00:00.326	ID:18	[INFO: Main      ] - Net: sicslowpan
+00:00.326	ID:18	[INFO: Main      ] - MAC: CSMA
+00:00.326	ID:18	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.326	ID:18	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.326	ID:18	[INFO: Main      ] Node ID: 18
+00:00.326	ID:18	[INFO: Main      ] Link-layer address: 0012.0012.0012.0012
+00:00.326	ID:18	[INFO: Main      ] Tentative link-local IPv6 address: fe80::212:12:12:12
+00:00.348	ID:4	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.348	ID:4	[INFO: Main      ] - Routing: RPL Lite
+00:00.348	ID:4	[INFO: Main      ] - Net: sicslowpan
+00:00.348	ID:4	[INFO: Main      ] - MAC: CSMA
+00:00.348	ID:4	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.348	ID:4	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.348	ID:4	[INFO: Main      ] Node ID: 4
+00:00.348	ID:4	[INFO: Main      ] Link-layer address: 0004.0004.0004.0004
+00:00.348	ID:4	[INFO: Main      ] Tentative link-local IPv6 address: fe80::204:4:4:4
+00:00.382	ID:1	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.382	ID:1	[INFO: Main      ] - Routing: RPL Lite
+00:00.382	ID:1	[INFO: Main      ] - Net: sicslowpan
+00:00.382	ID:1	[INFO: Main      ] - MAC: CSMA
+00:00.382	ID:1	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.382	ID:1	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.382	ID:1	[INFO: Main      ] Node ID: 1
+00:00.382	ID:1	[INFO: Main      ] Link-layer address: 0001.0001.0001.0001
+00:00.382	ID:1	[INFO: Main      ] Tentative link-local IPv6 address: fe80::201:1:1:1
+00:00.402	ID:7	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.402	ID:7	[INFO: Main      ] - Routing: RPL Lite
+00:00.402	ID:7	[INFO: Main      ] - Net: sicslowpan
+00:00.402	ID:7	[INFO: Main      ] - MAC: CSMA
+00:00.402	ID:7	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.402	ID:7	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.402	ID:7	[INFO: Main      ] Node ID: 7
+00:00.402	ID:7	[INFO: Main      ] Link-layer address: 0007.0007.0007.0007
+00:00.402	ID:7	[INFO: Main      ] Tentative link-local IPv6 address: fe80::207:7:7:7
+00:00.450	ID:14	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.450	ID:14	[INFO: Main      ] - Routing: RPL Lite
+00:00.450	ID:14	[INFO: Main      ] - Net: sicslowpan
+00:00.450	ID:14	[INFO: Main      ] - MAC: CSMA
+00:00.450	ID:14	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.450	ID:14	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.450	ID:14	[INFO: Main      ] Node ID: 14
+00:00.450	ID:14	[INFO: Main      ] Link-layer address: 000e.000e.000e.000e
+00:00.450	ID:14	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20e:e:e:e
+00:00.462	ID:15	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.462	ID:15	[INFO: Main      ] - Routing: RPL Lite
+00:00.462	ID:15	[INFO: Main      ] - Net: sicslowpan
+00:00.462	ID:15	[INFO: Main      ] - MAC: CSMA
+00:00.462	ID:15	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.462	ID:15	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.462	ID:15	[INFO: Main      ] Node ID: 15
+00:00.462	ID:15	[INFO: Main      ] Link-layer address: 000f.000f.000f.000f
+00:00.462	ID:15	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20f:f:f:f
+00:00.467	ID:25	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.467	ID:25	[INFO: Main      ] - Routing: RPL Lite
+00:00.467	ID:25	[INFO: Main      ] - Net: sicslowpan
+00:00.467	ID:25	[INFO: Main      ] - MAC: CSMA
+00:00.467	ID:25	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.467	ID:25	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.467	ID:25	[INFO: Main      ] Node ID: 25
+00:00.467	ID:25	[INFO: Main      ] Link-layer address: 0019.0019.0019.0019
+00:00.467	ID:25	[INFO: Main      ] Tentative link-local IPv6 address: fe80::219:19:19:19
+00:00.472	ID:20	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.472	ID:20	[INFO: Main      ] - Routing: RPL Lite
+00:00.472	ID:20	[INFO: Main      ] - Net: sicslowpan
+00:00.472	ID:20	[INFO: Main      ] - MAC: CSMA
+00:00.472	ID:20	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.472	ID:20	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.472	ID:20	[INFO: Main      ] Node ID: 20
+00:00.472	ID:20	[INFO: Main      ] Link-layer address: 0014.0014.0014.0014
+00:00.472	ID:20	[INFO: Main      ] Tentative link-local IPv6 address: fe80::214:14:14:14
+00:00.473	ID:16	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.473	ID:16	[INFO: Main      ] - Routing: RPL Lite
+00:00.473	ID:16	[INFO: Main      ] - Net: sicslowpan
+00:00.473	ID:16	[INFO: Main      ] - MAC: CSMA
+00:00.473	ID:16	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.473	ID:16	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.473	ID:16	[INFO: Main      ] Node ID: 16
+00:00.473	ID:16	[INFO: Main      ] Link-layer address: 0010.0010.0010.0010
+00:00.473	ID:16	[INFO: Main      ] Tentative link-local IPv6 address: fe80::210:10:10:10
+00:00.556	ID:10	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.556	ID:10	[INFO: Main      ] - Routing: RPL Lite
+00:00.556	ID:10	[INFO: Main      ] - Net: sicslowpan
+00:00.556	ID:10	[INFO: Main      ] - MAC: CSMA
+00:00.556	ID:10	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.556	ID:10	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.556	ID:10	[INFO: Main      ] Node ID: 10
+00:00.556	ID:10	[INFO: Main      ] Link-layer address: 000a.000a.000a.000a
+00:00.556	ID:10	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20a:a:a:a
+00:00.594	ID:12	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.594	ID:12	[INFO: Main      ] - Routing: RPL Lite
+00:00.594	ID:12	[INFO: Main      ] - Net: sicslowpan
+00:00.594	ID:12	[INFO: Main      ] - MAC: CSMA
+00:00.594	ID:12	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.594	ID:12	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.594	ID:12	[INFO: Main      ] Node ID: 12
+00:00.594	ID:12	[INFO: Main      ] Link-layer address: 000c.000c.000c.000c
+00:00.594	ID:12	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20c:c:c:c
+00:00.663	ID:22	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.663	ID:22	[INFO: Main      ] - Routing: RPL Lite
+00:00.663	ID:22	[INFO: Main      ] - Net: sicslowpan
+00:00.663	ID:22	[INFO: Main      ] - MAC: CSMA
+00:00.663	ID:22	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.663	ID:22	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.663	ID:22	[INFO: Main      ] Node ID: 22
+00:00.663	ID:22	[INFO: Main      ] Link-layer address: 0016.0016.0016.0016
+00:00.663	ID:22	[INFO: Main      ] Tentative link-local IPv6 address: fe80::216:16:16:16
+00:00.690	ID:26	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.690	ID:26	[INFO: Main      ] - Routing: RPL Lite
+00:00.690	ID:26	[INFO: Main      ] - Net: sicslowpan
+00:00.690	ID:26	[INFO: Main      ] - MAC: CSMA
+00:00.690	ID:26	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.690	ID:26	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.690	ID:26	[INFO: Main      ] Node ID: 26
+00:00.690	ID:26	[INFO: Main      ] Link-layer address: 001a.001a.001a.001a
+00:00.690	ID:26	[INFO: Main      ] Tentative link-local IPv6 address: fe80::21a:1a:1a:1a
+00:00.708	ID:9	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.708	ID:9	[INFO: Main      ] - Routing: RPL Lite
+00:00.708	ID:9	[INFO: Main      ] - Net: sicslowpan
+00:00.708	ID:9	[INFO: Main      ] - MAC: CSMA
+00:00.708	ID:9	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.708	ID:9	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.708	ID:9	[INFO: Main      ] Node ID: 9
+00:00.708	ID:9	[INFO: Main      ] Link-layer address: 0009.0009.0009.0009
+00:00.708	ID:9	[INFO: Main      ] Tentative link-local IPv6 address: fe80::209:9:9:9
+00:00.715	ID:5	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.715	ID:5	[INFO: Main      ] - Routing: RPL Lite
+00:00.715	ID:5	[INFO: Main      ] - Net: sicslowpan
+00:00.715	ID:5	[INFO: Main      ] - MAC: CSMA
+00:00.715	ID:5	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.715	ID:5	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.715	ID:5	[INFO: Main      ] Node ID: 5
+00:00.715	ID:5	[INFO: Main      ] Link-layer address: 0005.0005.0005.0005
+00:00.715	ID:5	[INFO: Main      ] Tentative link-local IPv6 address: fe80::205:5:5:5
+00:00.719	ID:19	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.719	ID:19	[INFO: Main      ] - Routing: RPL Lite
+00:00.719	ID:19	[INFO: Main      ] - Net: sicslowpan
+00:00.719	ID:19	[INFO: Main      ] - MAC: CSMA
+00:00.719	ID:19	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.719	ID:19	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.719	ID:19	[INFO: Main      ] Node ID: 19
+00:00.719	ID:19	[INFO: Main      ] Link-layer address: 0013.0013.0013.0013
+00:00.719	ID:19	[INFO: Main      ] Tentative link-local IPv6 address: fe80::213:13:13:13
+00:00.809	ID:17	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.809	ID:17	[INFO: Main      ] - Routing: RPL Lite
+00:00.809	ID:17	[INFO: Main      ] - Net: sicslowpan
+00:00.809	ID:17	[INFO: Main      ] - MAC: CSMA
+00:00.809	ID:17	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.809	ID:17	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.809	ID:17	[INFO: Main      ] Node ID: 17
+00:00.809	ID:17	[INFO: Main      ] Link-layer address: 0011.0011.0011.0011
+00:00.809	ID:17	[INFO: Main      ] Tentative link-local IPv6 address: fe80::211:11:11:11
+00:00.884	ID:13	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.884	ID:13	[INFO: Main      ] - Routing: RPL Lite
+00:00.884	ID:13	[INFO: Main      ] - Net: sicslowpan
+00:00.884	ID:13	[INFO: Main      ] - MAC: CSMA
+00:00.884	ID:13	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.884	ID:13	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.884	ID:13	[INFO: Main      ] Node ID: 13
+00:00.884	ID:13	[INFO: Main      ] Link-layer address: 000d.000d.000d.000d
+00:00.884	ID:13	[INFO: Main      ] Tentative link-local IPv6 address: fe80::20d:d:d:d
+00:00.899	ID:3	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.899	ID:3	[INFO: Main      ] - Routing: RPL Lite
+00:00.899	ID:3	[INFO: Main      ] - Net: sicslowpan
+00:00.899	ID:3	[INFO: Main      ] - MAC: CSMA
+00:00.899	ID:3	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.899	ID:3	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.899	ID:3	[INFO: Main      ] Node ID: 3
+00:00.899	ID:3	[INFO: Main      ] Link-layer address: 0003.0003.0003.0003
+00:00.899	ID:3	[INFO: Main      ] Tentative link-local IPv6 address: fe80::203:3:3:3
+00:00.906	ID:21	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.906	ID:21	[INFO: Main      ] - Routing: RPL Lite
+00:00.906	ID:21	[INFO: Main      ] - Net: sicslowpan
+00:00.906	ID:21	[INFO: Main      ] - MAC: CSMA
+00:00.906	ID:21	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.906	ID:21	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.906	ID:21	[INFO: Main      ] Node ID: 21
+00:00.906	ID:21	[INFO: Main      ] Link-layer address: 0015.0015.0015.0015
+00:00.906	ID:21	[INFO: Main      ] Tentative link-local IPv6 address: fe80::215:15:15:15
+00:00.945	ID:23	[INFO: Main      ] Starting Contiki-NG-release/v4.6-165-g103036e0b-dirty
+00:00.945	ID:23	[INFO: Main      ] - Routing: RPL Lite
+00:00.945	ID:23	[INFO: Main      ] - Net: sicslowpan
+00:00.945	ID:23	[INFO: Main      ] - MAC: CSMA
+00:00.945	ID:23	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:00.945	ID:23	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:00.945	ID:23	[INFO: Main      ] Node ID: 23
+00:00.945	ID:23	[INFO: Main      ] Link-layer address: 0017.0017.0017.0017
+00:00.945	ID:23	[INFO: Main      ] Tentative link-local IPv6 address: fe80::217:17:17:17
+00:03.035	ID:24	[INFO: Sensor    ] Controller not reachable yet
+00:03.073	ID:8	[INFO: Sensor    ] Controller not reachable yet
+00:03.190	ID:11	[INFO: Sensor    ] Controller not reachable yet
+00:03.236	ID:2	[INFO: Sensor    ] Controller not reachable yet
+00:03.250	ID:6	[INFO: Sensor    ] Controller not reachable yet
+00:03.326	ID:18	[INFO: Sensor    ] Controller not reachable yet
+00:03.348	ID:4	[INFO: Sensor    ] Controller not reachable yet
+00:03.402	ID:7	[INFO: Sensor    ] Controller not reachable yet
+00:03.450	ID:14	[INFO: Sensor    ] Controller not reachable yet
+00:03.462	ID:15	[INFO: Sensor    ] Controller not reachable yet
+00:03.467	ID:25	[INFO: Sensor    ] Controller not reachable yet
+00:03.472	ID:20	[INFO: Sensor    ] Controller not reachable yet
+00:03.473	ID:16	[INFO: Sensor    ] Controller not reachable yet
+00:03.556	ID:10	[INFO: Sensor    ] Controller not reachable yet
+00:03.594	ID:12	[INFO: Sensor    ] Controller not reachable yet
+00:03.663	ID:22	[INFO: Sensor    ] Controller not reachable yet
+00:03.690	ID:26	[INFO: Sensor    ] Controller not reachable yet
+00:03.708	ID:9	[INFO: Sensor    ] Controller not reachable yet
+00:03.715	ID:5	[INFO: Sensor    ] Controller not reachable yet
+00:03.719	ID:19	[INFO: Sensor    ] Controller not reachable yet
+00:03.809	ID:17	[INFO: Sensor    ] Controller not reachable yet
+00:03.884	ID:13	[INFO: Sensor    ] Controller not reachable yet
+00:03.899	ID:3	[INFO: Sensor    ] Controller not reachable yet
+00:03.906	ID:21	[INFO: Sensor    ] Controller not reachable yet
+00:03.945	ID:23	[INFO: Sensor    ] Controller not reachable yet
+00:06.035	ID:24	[INFO: Sensor    ] Controller not reachable yet
+00:06.073	ID:8	[INFO: Sensor    ] Controller not reachable yet
+00:06.190	ID:11	[INFO: Sensor    ] Controller not reachable yet
+00:06.236	ID:2	[INFO: Sensor    ] Controller not reachable yet
+00:06.250	ID:6	[INFO: Sensor    ] Controller not reachable yet
+00:06.326	ID:18	[INFO: Sensor    ] Controller not reachable yet
+00:06.348	ID:4	[INFO: Sensor    ] Controller not reachable yet
+00:06.402	ID:7	[INFO: Sensor    ] Controller not reachable yet
+00:06.450	ID:14	[INFO: Sensor    ] Controller not reachable yet
+00:06.462	ID:15	[INFO: Sensor    ] Controller not reachable yet
+00:06.467	ID:25	[INFO: Sensor    ] Controller not reachable yet
+00:06.472	ID:20	[INFO: Sensor    ] Controller not reachable yet
+00:06.473	ID:16	[INFO: Sensor    ] Controller not reachable yet
+00:06.556	ID:10	[INFO: Sensor    ] Controller not reachable yet
+00:06.594	ID:12	[INFO: Sensor    ] Controller not reachable yet
+00:06.663	ID:22	[INFO: Sensor    ] Controller not reachable yet
+00:06.690	ID:26	[INFO: Sensor    ] Controller not reachable yet
+00:06.708	ID:9	[INFO: Sensor    ] Controller not reachable yet
+00:06.715	ID:5	[INFO: Sensor    ] Controller not reachable yet
+00:06.719	ID:19	[INFO: Sensor    ] Controller not reachable yet
+00:06.809	ID:17	[INFO: Sensor    ] Controller not reachable yet
+00:06.884	ID:13	[INFO: Sensor    ] Controller not reachable yet
+00:06.899	ID:3	[INFO: Sensor    ] Controller not reachable yet
+00:06.906	ID:21	[INFO: Sensor    ] Controller not reachable yet
+00:06.945	ID:23	[INFO: Sensor    ] Controller not reachable yet
+00:09.035	ID:24	[INFO: Sensor    ] Controller not reachable yet
+00:09.073	ID:8	[INFO: Sensor    ] Controller not reachable yet
+00:09.190	ID:11	[INFO: Sensor    ] Controller not reachable yet
+00:09.236	ID:2	[INFO: Sensor    ] Controller not reachable yet
+00:09.250	ID:6	[INFO: Sensor    ] Controller not reachable yet
+00:09.326	ID:18	[INFO: Sensor    ] Controller not reachable yet
+00:09.348	ID:4	[INFO: Sensor    ] Controller not reachable yet
+00:09.402	ID:7	[INFO: Sensor    ] Controller not reachable yet
+00:09.450	ID:14	[INFO: Sensor    ] Controller not reachable yet
+00:09.462	ID:15	[INFO: Sensor    ] Controller not reachable yet
+00:09.467	ID:25	[INFO: Sensor    ] Controller not reachable yet
+00:09.472	ID:20	[INFO: Sensor    ] Controller not reachable yet
+00:09.473	ID:16	[INFO: Sensor    ] Controller not reachable yet
+00:09.556	ID:10	[INFO: Sensor    ] Controller not reachable yet
+00:09.594	ID:12	[INFO: Sensor    ] Controller not reachable yet
+00:09.663	ID:22	[INFO: Sensor    ] Controller not reachable yet
+00:09.690	ID:26	[INFO: Sensor    ] Controller not reachable yet
+00:09.708	ID:9	[INFO: Sensor    ] Controller not reachable yet
+00:09.715	ID:5	[INFO: Sensor    ] Controller not reachable yet
+00:09.719	ID:19	[INFO: Sensor    ] Controller not reachable yet
+00:09.809	ID:17	[INFO: Sensor    ] Controller not reachable yet
+00:09.884	ID:13	[INFO: Sensor    ] Controller not reachable yet
+00:09.899	ID:3	[INFO: Sensor    ] Controller not reachable yet
+00:09.906	ID:21	[INFO: Sensor    ] Controller not reachable yet
+00:09.945	ID:23	[INFO: Sensor    ] Controller not reachable yet
+00:12.035	ID:24	[INFO: Sensor    ] Controller not reachable yet
+00:12.073	ID:8	[INFO: Sensor    ] Controller not reachable yet
+00:12.190	ID:11	[INFO: Sensor    ] Controller not reachable yet
+00:12.236	ID:2	[INFO: Sensor    ] Controller not reachable yet
+00:12.250	ID:6	[INFO: Sensor    ] Controller not reachable yet
+00:12.326	ID:18	[INFO: Sensor    ] Controller not reachable yet
+00:12.348	ID:4	[INFO: Sensor    ] Controller not reachable yet
+00:12.418	ID:1	fd00::207:7:7:7[INFO: Controller] :#0 Temperature: 25.530561, Humidity: 40.873383, Pressure: 106050.257812
+00:12.450	ID:14	[INFO: Sensor    ] Controller not reachable yet
+00:12.462	ID:15	[INFO: Sensor    ] Controller not reachable yet
+00:12.467	ID:25	[INFO: Sensor    ] Controller not reachable yet
+00:12.472	ID:20	[INFO: Sensor    ] Controller not reachable yet
+00:12.473	ID:16	[INFO: Sensor    ] Controller not reachable yet
+00:12.556	ID:10	[INFO: Sensor    ] Controller not reachable yet
+00:12.594	ID:12	[INFO: Sensor    ] Controller not reachable yet
+00:12.676	ID:1	fd00::216:16:16:16[INFO: Controller] :#0 Temperature: 25.175360, Humidity: 42.291874, Pressure: 106048.945312
+00:12.690	ID:26	[INFO: Sensor    ] Controller not reachable yet
+00:12.708	ID:9	[INFO: Sensor    ] Controller not reachable yet
+00:12.715	ID:5	[INFO: Sensor    ] Controller not reachable yet
+00:12.719	ID:19	[INFO: Sensor    ] Controller not reachable yet
+00:12.824	ID:1	fd00::211:11:11:11[INFO: Controller] :#0 Temperature: 27.339945, Humidity: 42.480583, Pressure: 106051.437500
+00:12.884	ID:13	[INFO: Sensor    ] Controller not reachable yet
+00:12.899	ID:3	[INFO: Sensor    ] Controller not reachable yet
+00:12.914	ID:1	fd00::215:15:15:15[INFO: Controller] :#0 Temperature: 25.451437, Humidity: 42.740040, Pressure: 106050.226562
+00:12.945	ID:23	[INFO: Sensor    ] Controller not reachable yet
+00:15.035	ID:24	[INFO: Sensor    ] Controller not reachable yet
+00:15.073	ID:8	[INFO: Sensor    ] Controller not reachable yet
+00:15.190	ID:11	[INFO: Sensor    ] Controller not reachable yet
+00:15.236	ID:2	[INFO: Sensor    ] Controller not reachable yet
+00:15.282	ID:1	fd00::206:6:6:6[INFO: Controller] :#0 Temperature: 26.614412, Humidity: 40.908333, Pressure: 106050.367188
+00:15.326	ID:18	[INFO: Sensor    ] Controller not reachable yet
+00:15.348	ID:4	[INFO: Sensor    ] Controller not reachable yet
+00:15.445	ID:1	fd00::207:7:7:7[INFO: Controller] :#1 Temperature: 26.313427, Humidity: 40.222507, Pressure: 106051.625000
+00:15.462	ID:15	[INFO: Sensor    ] Controller not reachable yet
+00:15.466	ID:1	fd00::20e:e:e:e[INFO: Controller] :#0 Temperature: 26.110439, Humidity: 41.236088, Pressure: 106049.664062
+00:15.473	ID:16	[INFO: Sensor    ] Controller not reachable yet
+00:15.478	ID:1	fd00::219:19:19:19[INFO: Controller] :#0 Temperature: 28.963646, Humidity: 43.540878, Pressure: 106050.039062
+00:15.483	ID:1	fd00::214:14:14:14[INFO: Controller] :#0 Temperature: 25.343697, Humidity: 43.264324, Pressure: 106049.898438
+00:15.594	ID:12	[INFO: Sensor    ] Controller not reachable yet
+00:15.610	ID:1	fd00::20a:a:a:a[INFO: Controller] :#0 Temperature: 24.944994, Humidity: 42.561691, Pressure: 106050.507812
+00:15.672	ID:1	fd00::216:16:16:16[INFO: Controller] :#1 Temperature: 26.743328, Humidity: 42.473011, Pressure: 106049.367188
+00:15.690	ID:26	[INFO: Sensor    ] Controller not reachable yet
+00:15.719	ID:19	[INFO: Sensor    ] Controller not reachable yet
+00:15.737	ID:1	fd00::205:5:5:5[INFO: Controller] :#0 Temperature: 26.403700, Humidity: 42.341042, Pressure: 106049.367188
+00:15.746	ID:1	fd00::209:9:9:9[INFO: Controller] :#0 Temperature: 25.866358, Humidity: 42.031086, Pressure: 106047.812500
+00:15.826	ID:1	fd00::211:11:11:11[INFO: Controller] :#1 Temperature: 24.552315, Humidity: 42.089607, Pressure: 106051.914062
+00:15.899	ID:3	[INFO: Sensor    ] Controller not reachable yet
+00:15.903	ID:1	fd00::20d:d:d:d[INFO: Controller] :#0 Temperature: 25.393185, Humidity: 43.091660, Pressure: 106050.437500
+00:15.925	ID:1	fd00::215:15:15:15[INFO: Controller] :#1 Temperature: 27.848139, Humidity: 43.139633, Pressure: 106051.187500
+00:15.945	ID:23	[INFO: Sensor    ] Controller not reachable yet
+00:18.090	ID:1	fd00::208:8:8:8[INFO: Controller] :#0 Temperature: 27.082865, Humidity: 40.342999, Pressure: 106050.796875
+00:18.093	ID:1	fd00::218:18:18:18[INFO: Controller] :#0 Temperature: 26.419268, Humidity: 41.984570, Pressure: 106050.796875
+00:18.204	ID:1	fd00::20b:b:b:b[INFO: Controller] :#0 Temperature: 26.898865, Humidity: 44.210701, Pressure: 106052.046875
+00:18.275	ID:1	fd00::202:2:2:2[INFO: Controller] :#0 Temperature: 27.804411, Humidity: 40.851425, Pressure: 106051.335938
+00:18.282	ID:1	fd00::206:6:6:6[INFO: Controller] :#1 Temperature: 26.528894, Humidity: 42.159729, Pressure: 106050.304688
+00:18.331	ID:1	fd00::212:12:12:12[INFO: Controller] :#0 Temperature: 25.680418, Humidity: 41.695972, Pressure: 106049.273438
+00:18.371	ID:1	fd00::204:4:4:4[INFO: Controller] :#0 Temperature: 26.893925, Humidity: 42.643101, Pressure: 106049.953125
+00:18.445	ID:1	fd00::207:7:7:7[INFO: Controller] :#2 Temperature: 27.444920, Humidity: 42.483688, Pressure: 106049.484375
+00:18.474	ID:1	fd00::219:19:19:19[INFO: Controller] :#1 Temperature: 25.950722, Humidity: 43.100842, Pressure: 106049.023438
+00:18.485	ID:1	fd00::210:10:10:10[INFO: Controller] :#0 Temperature: 25.828457, Humidity: 41.023697, Pressure: 106048.687500
+00:18.493	ID:1	fd00::20e:e:e:e[INFO: Controller] :#1 Temperature: 27.354319, Humidity: 41.636951, Pressure: 106050.023438
+00:18.502	ID:1	fd00::20f:f:f:f[INFO: Controller] :#0 Temperature: 28.144968, Humidity: 42.043491, Pressure: 106050.484375
+00:18.523	ID:1	fd00::214:14:14:14[INFO: Controller] :#1 Temperature: 26.447767, Humidity: 43.527405, Pressure: 106049.898438
+00:18.574	ID:1	fd00::20a:a:a:a[INFO: Controller] :#1 Temperature: 25.172400, Humidity: 43.964966, Pressure: 106049.664062
+00:18.599	ID:1	fd00::20c:c:c:c[INFO: Controller] :#0 Temperature: 24.119186, Humidity: 41.001926, Pressure: 106049.226562
+00:18.670	ID:1	fd00::216:16:16:16[INFO: Controller] :#2 Temperature: 23.155067, Humidity: 41.697098, Pressure: 106048.578125
+00:18.690	ID:26	[INFO: Sensor    ] Controller not reachable yet
+00:18.719	ID:19	[INFO: Sensor    ] Controller not reachable yet
+00:18.720	ID:1	fd00::209:9:9:9[INFO: Controller] :#1 Temperature: 27.726156, Humidity: 40.633022, Pressure: 106051.937500
+00:18.746	ID:1	fd00::205:5:5:5[INFO: Controller] :#1 Temperature: 25.055975, Humidity: 40.235851, Pressure: 106049.843750
+00:18.841	ID:1	fd00::211:11:11:11[INFO: Controller] :#2 Temperature: 25.525972, Humidity: 41.000927, Pressure: 106050.117188
+00:18.890	ID:1	fd00::20d:d:d:d[INFO: Controller] :#1 Temperature: 27.264389, Humidity: 43.414734, Pressure: 106050.859375
+00:18.899	ID:3	[INFO: Sensor    ] Controller not reachable yet
+00:18.937	ID:1	fd00::215:15:15:15[INFO: Controller] :#2 Temperature: 25.643467, Humidity: 41.327759, Pressure: 106051.078125
+00:18.945	ID:23	[INFO: Sensor    ] Controller not reachable yet
+00:21.070	ID:1	fd00::218:18:18:18[INFO: Controller] :#1 Temperature: 24.938917, Humidity: 41.000160, Pressure: 106051.320312
+00:21.079	ID:1	fd00::208:8:8:8[INFO: Controller] :#1 Temperature: 24.446964, Humidity: 41.594296, Pressure: 106050.140625
+00:21.226	ID:1	fd00::20b:b:b:b[INFO: Controller] :#1 Temperature: 26.152676, Humidity: 40.800049, Pressure: 106049.382812
+00:21.242	ID:1	fd00::202:2:2:2[INFO: Controller] :#1 Temperature: 26.693834, Humidity: 42.069954, Pressure: 106050.421875
+00:21.257	ID:1	fd00::206:6:6:6[INFO: Controller] :#2 Temperature: 26.054541, Humidity: 41.294163, Pressure: 106049.398438
+00:21.352	ID:1	fd00::212:12:12:12[INFO: Controller] :#1 Temperature: 24.020510, Humidity: 44.634216, Pressure: 106048.484375
+00:21.367	ID:1	fd00::204:4:4:4[INFO: Controller] :#1 Temperature: 26.253452, Humidity: 41.574352, Pressure: 106050.750000
+00:21.445	ID:1	fd00::207:7:7:7[INFO: Controller] :#3 Temperature: 26.674969, Humidity: 40.434525, Pressure: 106051.726562
+00:21.473	ID:1	fd00::20e:e:e:e[INFO: Controller] :#2 Temperature: 27.002054, Humidity: 42.596783, Pressure: 106050.179688
+00:21.487	ID:1	fd00::219:19:19:19[INFO: Controller] :#2 Temperature: 24.306009, Humidity: 42.495026, Pressure: 106050.578125
+00:21.501	ID:1	fd00::214:14:14:14[INFO: Controller] :#2 Temperature: 25.517128, Humidity: 40.623363, Pressure: 106048.226562
+00:21.507	ID:1	fd00::20f:f:f:f[INFO: Controller] :#1 Temperature: 25.752161, Humidity: 42.931740, Pressure: 106049.828125
+00:21.517	ID:1	fd00::210:10:10:10[INFO: Controller] :#1 Temperature: 27.348280, Humidity: 41.731113, Pressure: 106046.171875
+00:21.567	ID:1	fd00::20a:a:a:a[INFO: Controller] :#2 Temperature: 25.922750, Humidity: 42.275887, Pressure: 106050.210938
+00:21.628	ID:1	fd00::20c:c:c:c[INFO: Controller] :#1 Temperature: 26.434647, Humidity: 43.830101, Pressure: 106050.523438
+00:21.680	ID:1	fd00::216:16:16:16[INFO: Controller] :#3 Temperature: 25.525377, Humidity: 41.594841, Pressure: 106052.078125
+00:21.705	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#0 Temperature: 25.748236, Humidity: 40.317722, Pressure: 106050.023438
+00:21.723	ID:1	fd00::209:9:9:9[INFO: Controller] :#2 Temperature: 25.740259, Humidity: 43.744480, Pressure: 106049.765625
+00:21.734	ID:1	fd00::205:5:5:5[INFO: Controller] :#2 Temperature: 26.016138, Humidity: 41.454693, Pressure: 106049.109375
+00:21.748	ID:1	fd00::213:13:13:13[INFO: Controller] :#0 Temperature: 25.143154, Humidity: 42.311733, Pressure: 106049.164062
+00:21.828	ID:1	fd00::211:11:11:11[INFO: Controller] :#3 Temperature: 26.288479, Humidity: 39.857784, Pressure: 106048.281250
+00:21.900	ID:1	fd00::20d:d:d:d[INFO: Controller] :#2 Temperature: 23.378735, Humidity: 42.081051, Pressure: 106049.968750
+00:21.915	ID:1	fd00::215:15:15:15[INFO: Controller] :#3 Temperature: 25.023516, Humidity: 41.399178, Pressure: 106049.882812
+00:21.935	ID:1	fd00::203:3:3:3[INFO: Controller] :#0 Temperature: 24.715338, Humidity: 43.051895, Pressure: 106050.085938
+00:21.955	ID:1	fd00::217:17:17:17[INFO: Controller] :#0 Temperature: 26.185205, Humidity: 42.023739, Pressure: 106051.429688
+00:24.082	ID:1	fd00::218:18:18:18[INFO: Controller] :#2 Temperature: 25.448912, Humidity: 41.059944, Pressure: 106050.515625
+00:24.094	ID:1	fd00::208:8:8:8[INFO: Controller] :#2 Temperature: 24.221771, Humidity: 41.264317, Pressure: 106049.367188
+00:24.224	ID:1	fd00::20b:b:b:b[INFO: Controller] :#2 Temperature: 25.928091, Humidity: 41.984245, Pressure: 106048.835938
+00:24.260	ID:1	fd00::202:2:2:2[INFO: Controller] :#2 Temperature: 24.779854, Humidity: 42.516315, Pressure: 106049.773438
+00:24.292	ID:1	fd00::206:6:6:6[INFO: Controller] :#3 Temperature: 25.804976, Humidity: 43.520145, Pressure: 106051.445312
+00:24.364	ID:1	fd00::212:12:12:12[INFO: Controller] :#2 Temperature: 26.464579, Humidity: 43.625275, Pressure: 106050.710938
+00:24.385	ID:1	fd00::204:4:4:4[INFO: Controller] :#2 Temperature: 26.690971, Humidity: 43.130253, Pressure: 106048.398438
+00:24.427	ID:1	fd00::207:7:7:7[INFO: Controller] :#4 Temperature: 25.788513, Humidity: 42.344761, Pressure: 106051.554688
+00:24.481	ID:1	fd00::20e:e:e:e[INFO: Controller] :#3 Temperature: 25.582830, Humidity: 41.179832, Pressure: 106048.648438
+00:24.484	ID:1	fd00::210:10:10:10[INFO: Controller] :#2 Temperature: 26.039375, Humidity: 41.992649, Pressure: 106050.765625
+00:24.497	ID:1	fd00::20f:f:f:f[INFO: Controller] :#2 Temperature: 24.341757, Humidity: 41.132294, Pressure: 106049.828125
+00:24.502	ID:1	fd00::214:14:14:14[INFO: Controller] :#3 Temperature: 25.429104, Humidity: 39.404930, Pressure: 106051.679688
+00:24.511	ID:1	fd00::219:19:19:19[INFO: Controller] :#3 Temperature: 27.942137, Humidity: 43.410797, Pressure: 106050.625000
+00:24.585	ID:1	fd00::20a:a:a:a[INFO: Controller] :#3 Temperature: 26.215399, Humidity: 42.173141, Pressure: 106053.351562
+00:24.635	ID:1	fd00::20c:c:c:c[INFO: Controller] :#2 Temperature: 26.402046, Humidity: 40.678577, Pressure: 106050.656250
+00:24.683	ID:1	fd00::216:16:16:16[INFO: Controller] :#4 Temperature: 26.085758, Humidity: 43.028091, Pressure: 106049.812500
+00:24.721	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#1 Temperature: 24.535017, Humidity: 43.758148, Pressure: 106048.359375
+00:24.731	ID:1	fd00::213:13:13:13[INFO: Controller] :#1 Temperature: 27.065701, Humidity: 40.970089, Pressure: 106049.476562
+00:24.744	ID:1	fd00::209:9:9:9[INFO: Controller] :#3 Temperature: 25.936884, Humidity: 43.095520, Pressure: 106049.562500
+00:24.759	ID:1	fd00::205:5:5:5[INFO: Controller] :#3 Temperature: 25.368124, Humidity: 43.610809, Pressure: 106048.562500
+00:24.851	ID:1	fd00::211:11:11:11[INFO: Controller] :#4 Temperature: 26.345736, Humidity: 40.495457, Pressure: 106049.937500
+00:24.907	ID:1	fd00::203:3:3:3[INFO: Controller] :#1 Temperature: 25.233606, Humidity: 42.353493, Pressure: 106049.265625
+00:24.928	ID:1	fd00::20d:d:d:d[INFO: Controller] :#3 Temperature: 26.000488, Humidity: 43.263592, Pressure: 106049.578125
+00:24.935	ID:1	fd00::215:15:15:15[INFO: Controller] :#4 Temperature: 26.495134, Humidity: 42.764786, Pressure: 106050.000000
+00:24.969	ID:1	fd00::217:17:17:17[INFO: Controller] :#1 Temperature: 25.112619, Humidity: 43.706699, Pressure: 106050.710938
+00:27.056	ID:1	fd00::218:18:18:18[INFO: Controller] :#3 Temperature: 24.670574, Humidity: 40.382351, Pressure: 106050.648438
+00:27.092	ID:1	fd00::208:8:8:8[INFO: Controller] :#3 Temperature: 25.080015, Humidity: 44.792667, Pressure: 106049.320312
+00:27.229	ID:1	fd00::20b:b:b:b[INFO: Controller] :#3 Temperature: 24.636507, Humidity: 42.373264, Pressure: 106050.382812
+00:27.268	ID:1	fd00::202:2:2:2[INFO: Controller] :#3 Temperature: 25.330042, Humidity: 42.053623, Pressure: 106049.093750
+00:27.275	ID:1	fd00::206:6:6:6[INFO: Controller] :#4 Temperature: 25.935770, Humidity: 41.825676, Pressure: 106049.851562
+00:27.356	ID:1	fd00::204:4:4:4[INFO: Controller] :#3 Temperature: 27.937346, Humidity: 40.602482, Pressure: 106050.000000
+00:27.374	ID:1	fd00::212:12:12:12[INFO: Controller] :#3 Temperature: 24.597763, Humidity: 42.682201, Pressure: 106049.023438
+00:27.432	ID:1	fd00::207:7:7:7[INFO: Controller] :#5 Temperature: 28.146126, Humidity: 40.468582, Pressure: 106048.898438
+00:27.479	ID:1	fd00::210:10:10:10[INFO: Controller] :#3 Temperature: 26.737066, Humidity: 41.252033, Pressure: 106051.445312
+00:27.499	ID:1	fd00::20f:f:f:f[INFO: Controller] :#3 Temperature: 27.148790, Humidity: 41.831459, Pressure: 106050.210938
+00:27.522	ID:1	fd00::219:19:19:19[INFO: Controller] :#4 Temperature: 26.999998, Humidity: 42.887287, Pressure: 106048.914062
+00:27.537	ID:1	fd00::214:14:14:14[INFO: Controller] :#4 Temperature: 26.776045, Humidity: 42.643578, Pressure: 106051.468750
+00:27.555	ID:1	fd00::20e:e:e:e[INFO: Controller] :#4 Temperature: 24.430721, Humidity: 41.785709, Pressure: 106049.382812
+00:27.586	ID:1	fd00::20a:a:a:a[INFO: Controller] :#4 Temperature: 26.401148, Humidity: 40.835350, Pressure: 106051.296875
+00:27.640	ID:1	fd00::20c:c:c:c[INFO: Controller] :#3 Temperature: 27.762512, Humidity: 40.817760, Pressure: 106051.093750
+00:27.711	ID:1	fd00::216:16:16:16[INFO: Controller] :#5 Temperature: 25.926998, Humidity: 41.162491, Pressure: 106049.046875
+00:27.728	ID:1	fd00::205:5:5:5[INFO: Controller] :#4 Temperature: 24.927713, Humidity: 42.121685, Pressure: 106050.101562
+00:27.731	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#2 Temperature: 25.911566, Humidity: 41.252033, Pressure: 106050.164062
+00:27.742	ID:1	fd00::209:9:9:9[INFO: Controller] :#4 Temperature: 25.086544, Humidity: 43.124882, Pressure: 106049.187500
+00:27.763	ID:1	fd00::213:13:13:13[INFO: Controller] :#2 Temperature: 25.819984, Humidity: 42.083347, Pressure: 106049.601562
+00:27.824	ID:1	fd00::211:11:11:11[INFO: Controller] :#5 Temperature: 25.964529, Humidity: 41.964294, Pressure: 106049.523438
+00:27.903	ID:1	fd00::20d:d:d:d[INFO: Controller] :#4 Temperature: 26.058636, Humidity: 43.056168, Pressure: 106051.007812
+00:27.908	ID:1	fd00::203:3:3:3[INFO: Controller] :#2 Temperature: 28.025322, Humidity: 41.664108, Pressure: 106050.382812
+00:27.943	ID:1	fd00::215:15:15:15[INFO: Controller] :#5 Temperature: 26.392122, Humidity: 42.211067, Pressure: 106048.828125
+00:27.972	ID:1	fd00::217:17:17:17[INFO: Controller] :#2 Temperature: 27.490688, Humidity: 42.201622, Pressure: 106049.625000
+00:30.071	ID:1	fd00::218:18:18:18[INFO: Controller] :#4 Temperature: 26.210018, Humidity: 43.691505, Pressure: 106049.312500
+00:30.092	ID:1	fd00::208:8:8:8[INFO: Controller] :#4 Temperature: 25.654951, Humidity: 41.059956, Pressure: 106051.265625
+00:30.202	ID:1	fd00::20b:b:b:b[INFO: Controller] :#4 Temperature: 25.304491, Humidity: 40.155792, Pressure: 106051.398438
+00:30.266	ID:1	fd00::206:6:6:6[INFO: Controller] :#5 Temperature: 25.243275, Humidity: 42.325279, Pressure: 106051.468750
+00:30.279	ID:1	fd00::202:2:2:2[INFO: Controller] :#4 Temperature: 24.545584, Humidity: 42.251392, Pressure: 106051.289062
+00:30.371	ID:1	fd00::212:12:12:12[INFO: Controller] :#4 Temperature: 26.281471, Humidity: 42.305191, Pressure: 106048.656250
+00:30.390	ID:1	fd00::204:4:4:4[INFO: Controller] :#4 Temperature: 26.295889, Humidity: 42.089359, Pressure: 106050.500000
+00:30.431	ID:1	fd00::207:7:7:7[INFO: Controller] :#6 Temperature: 26.892426, Humidity: 41.890228, Pressure: 106050.507812
+00:30.472	ID:1	fd00::20f:f:f:f[INFO: Controller] :#4 Temperature: 24.714792, Humidity: 42.927208, Pressure: 106048.320312
+00:30.489	ID:1	fd00::214:14:14:14[INFO: Controller] :#5 Temperature: 23.988911, Humidity: 42.380318, Pressure: 106049.632812
+00:30.499	ID:1	fd00::20e:e:e:e[INFO: Controller] :#5 Temperature: 27.545630, Humidity: 42.177845, Pressure: 106048.101562
+00:30.507	ID:1	fd00::219:19:19:19[INFO: Controller] :#5 Temperature: 25.631227, Humidity: 42.735554, Pressure: 106049.437500
+00:30.510	ID:1	fd00::210:10:10:10[INFO: Controller] :#4 Temperature: 26.963318, Humidity: 41.964302, Pressure: 106050.921875
+00:30.601	ID:1	fd00::20a:a:a:a[INFO: Controller] :#5 Temperature: 26.053690, Humidity: 43.105251, Pressure: 106050.421875
+00:30.619	ID:1	fd00::20c:c:c:c[INFO: Controller] :#4 Temperature: 28.256571, Humidity: 41.679012, Pressure: 106050.664062
+00:30.706	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#3 Temperature: 25.266180, Humidity: 42.414310, Pressure: 106050.406250
+00:30.713	ID:1	fd00::216:16:16:16[INFO: Controller] :#6 Temperature: 26.242876, Humidity: 41.247280, Pressure: 106051.023438
+00:30.743	ID:1	fd00::209:9:9:9[INFO: Controller] :#5 Temperature: 25.490593, Humidity: 41.942108, Pressure: 106048.593750
+00:30.753	ID:1	fd00::205:5:5:5[INFO: Controller] :#5 Temperature: 27.703011, Humidity: 43.592724, Pressure: 106050.875000
+00:30.765	ID:1	fd00::213:13:13:13[INFO: Controller] :#3 Temperature: 26.785408, Humidity: 42.620441, Pressure: 106049.179688
+00:30.856	ID:1	fd00::211:11:11:11[INFO: Controller] :#6 Temperature: 26.248323, Humidity: 41.628372, Pressure: 106049.546875
+00:30.915	ID:1	fd00::20d:d:d:d[INFO: Controller] :#5 Temperature: 26.686964, Humidity: 44.007294, Pressure: 106050.015625
+00:30.926	ID:1	fd00::215:15:15:15[INFO: Controller] :#6 Temperature: 25.560032, Humidity: 41.921581, Pressure: 106050.046875
+00:30.952	ID:1	fd00::203:3:3:3[INFO: Controller] :#3 Temperature: 28.216860, Humidity: 41.196068, Pressure: 106049.867188
+00:30.965	ID:1	fd00::217:17:17:17[INFO: Controller] :#3 Temperature: 26.445965, Humidity: 41.299244, Pressure: 106050.304688
+00:33.073	ID:1	fd00::218:18:18:18[INFO: Controller] :#5 Temperature: 26.507519, Humidity: 41.205585, Pressure: 106049.656250
+00:33.116	ID:1	fd00::208:8:8:8[INFO: Controller] :#5 Temperature: 26.390659, Humidity: 42.747181, Pressure: 106049.171875
+00:33.222	ID:1	fd00::20b:b:b:b[INFO: Controller] :#5 Temperature: 26.262253, Humidity: 41.482449, Pressure: 106051.968750
+00:33.281	ID:1	fd00::206:6:6:6[INFO: Controller] :#6 Temperature: 26.985666, Humidity: 41.458000, Pressure: 106049.320312
+00:33.286	ID:1	fd00::202:2:2:2[INFO: Controller] :#5 Temperature: 26.755466, Humidity: 41.418213, Pressure: 106049.398438
+00:33.368	ID:1	fd00::212:12:12:12[INFO: Controller] :#5 Temperature: 26.477636, Humidity: 42.131268, Pressure: 106049.304688
+00:33.389	ID:1	fd00::204:4:4:4[INFO: Controller] :#5 Temperature: 25.639015, Humidity: 42.923008, Pressure: 106050.835938
+00:33.444	ID:1	fd00::207:7:7:7[INFO: Controller] :#7 Temperature: 27.383152, Humidity: 40.617264, Pressure: 106051.367188
+00:33.461	ID:1	fd00::20e:e:e:e[INFO: Controller] :#6 Temperature: 26.359512, Humidity: 41.282726, Pressure: 106050.351562
+00:33.493	ID:1	fd00::20f:f:f:f[INFO: Controller] :#5 Temperature: 24.745508, Humidity: 41.803062, Pressure: 106048.179688
+00:33.499	ID:1	fd00::210:10:10:10[INFO: Controller] :#5 Temperature: 27.849333, Humidity: 41.979088, Pressure: 106050.828125
+00:33.506	ID:1	fd00::219:19:19:19[INFO: Controller] :#6 Temperature: 26.070477, Humidity: 42.027775, Pressure: 106050.718750
+00:33.582	ID:1	fd00::214:14:14:14[INFO: Controller] :#6 Temperature: 24.583239, Humidity: 43.088821, Pressure: 106047.945312
+00:33.601	ID:1	fd00::20a:a:a:a[INFO: Controller] :#6 Temperature: 24.530840, Humidity: 42.800224, Pressure: 106049.976562
+00:33.627	ID:1	fd00::20c:c:c:c[INFO: Controller] :#5 Temperature: 26.150084, Humidity: 40.712250, Pressure: 106050.921875
+00:33.710	ID:1	fd00::216:16:16:16[INFO: Controller] :#7 Temperature: 25.381845, Humidity: 42.500118, Pressure: 106050.218750
+00:33.739	ID:1	fd00::205:5:5:5[INFO: Controller] :#6 Temperature: 26.678801, Humidity: 43.390564, Pressure: 106050.117188
+00:33.754	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#4 Temperature: 25.045935, Humidity: 42.550014, Pressure: 106050.578125
+00:33.765	ID:1	fd00::213:13:13:13[INFO: Controller] :#4 Temperature: 25.860939, Humidity: 41.584877, Pressure: 106051.132812
+00:33.818	ID:1	fd00::209:9:9:9[INFO: Controller] :#6 Temperature: 27.300621, Humidity: 40.740986, Pressure: 106050.445312
+00:33.859	ID:1	fd00::211:11:11:11[INFO: Controller] :#7 Temperature: 27.497980, Humidity: 40.642529, Pressure: 106051.156250
+00:33.912	ID:1	fd00::20d:d:d:d[INFO: Controller] :#6 Temperature: 27.810127, Humidity: 41.302860, Pressure: 106050.484375
+00:33.984	ID:1	fd00::217:17:17:17[INFO: Controller] :#4 Temperature: 26.953480, Humidity: 44.028263, Pressure: 106049.851562
+00:33.990	ID:1	fd00::203:3:3:3[INFO: Controller] :#4 Temperature: 25.352932, Humidity: 42.424080, Pressure: 106051.320312
+00:33.995	ID:1	fd00::215:15:15:15[INFO: Controller] :#7 Temperature: 26.331516, Humidity: 42.428017, Pressure: 106049.351562
+00:36.070	ID:1	fd00::218:18:18:18[INFO: Controller] :#6 Temperature: 26.149534, Humidity: 43.077545, Pressure: 106049.960938
+00:36.084	ID:1	fd00::208:8:8:8[INFO: Controller] :#6 Temperature: 26.194317, Humidity: 41.864208, Pressure: 106048.242188
+00:36.224	ID:1	fd00::20b:b:b:b[INFO: Controller] :#6 Temperature: 27.340334, Humidity: 41.250992, Pressure: 106049.171875
+00:36.266	ID:1	fd00::202:2:2:2[INFO: Controller] :#6 Temperature: 26.585415, Humidity: 41.606033, Pressure: 106048.000000
+00:36.294	ID:1	fd00::206:6:6:6[INFO: Controller] :#7 Temperature: 27.272938, Humidity: 39.959442, Pressure: 106049.750000
+00:36.375	ID:1	fd00::212:12:12:12[INFO: Controller] :#6 Temperature: 26.537048, Humidity: 41.502518, Pressure: 106050.359375
+00:36.388	ID:1	fd00::204:4:4:4[INFO: Controller] :#6 Temperature: 26.654011, Humidity: 42.445278, Pressure: 106051.484375
+00:36.419	ID:1	fd00::207:7:7:7[INFO: Controller] :#8 Temperature: 26.723721, Humidity: 42.674557, Pressure: 106050.195312
+00:36.478	ID:1	fd00::20e:e:e:e[INFO: Controller] :#7 Temperature: 26.204647, Humidity: 42.030437, Pressure: 106050.226562
+00:36.483	ID:1	fd00::20f:f:f:f[INFO: Controller] :#6 Temperature: 26.710775, Humidity: 41.880558, Pressure: 106050.460938
+00:36.504	ID:1	fd00::210:10:10:10[INFO: Controller] :#6 Temperature: 24.216091, Humidity: 41.126598, Pressure: 106052.546875
+00:36.510	ID:1	fd00::219:19:19:19[INFO: Controller] :#7 Temperature: 27.100790, Humidity: 42.445194, Pressure: 106050.453125
+00:36.518	ID:1	fd00::214:14:14:14[INFO: Controller] :#7 Temperature: 26.299707, Humidity: 42.989517, Pressure: 106051.828125
+00:36.581	ID:1	fd00::20a:a:a:a[INFO: Controller] :#7 Temperature: 24.996500, Humidity: 42.241123, Pressure: 106049.179688
+00:36.642	ID:1	fd00::20c:c:c:c[INFO: Controller] :#6 Temperature: 26.350050, Humidity: 42.541954, Pressure: 106050.570312
+00:36.687	ID:1	fd00::216:16:16:16[INFO: Controller] :#8 Temperature: 26.050432, Humidity: 43.149635, Pressure: 106049.898438
+00:36.712	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#5 Temperature: 26.549150, Humidity: 43.285881, Pressure: 106051.726562
+00:36.723	ID:1	fd00::209:9:9:9[INFO: Controller] :#7 Temperature: 28.189445, Humidity: 39.754211, Pressure: 106049.703125
+00:36.736	ID:1	fd00::205:5:5:5[INFO: Controller] :#7 Temperature: 24.633512, Humidity: 44.216515, Pressure: 106051.390625
+00:36.759	ID:1	fd00::213:13:13:13[INFO: Controller] :#5 Temperature: 26.330404, Humidity: 41.836597, Pressure: 106048.343750
+00:36.855	ID:1	fd00::211:11:11:11[INFO: Controller] :#8 Temperature: 27.351669, Humidity: 42.408909, Pressure: 106050.851562
+00:36.918	ID:1	fd00::20d:d:d:d[INFO: Controller] :#7 Temperature: 27.693146, Humidity: 41.485672, Pressure: 106050.679688
+00:36.921	ID:1	fd00::203:3:3:3[INFO: Controller] :#5 Temperature: 25.522621, Humidity: 40.567921, Pressure: 106049.921875
+00:36.958	ID:1	fd00::215:15:15:15[INFO: Controller] :#8 Temperature: 26.985277, Humidity: 41.922771, Pressure: 106049.000000
+00:36.993	ID:1	fd00::217:17:17:17[INFO: Controller] :#5 Temperature: 27.496552, Humidity: 42.129288, Pressure: 106051.140625
+00:39.087	ID:1	fd00::218:18:18:18[INFO: Controller] :#7 Temperature: 26.917637, Humidity: 42.116646, Pressure: 106050.242188
+00:39.098	ID:1	fd00::208:8:8:8[INFO: Controller] :#7 Temperature: 26.013243, Humidity: 40.729107, Pressure: 106050.671875
+00:39.233	ID:1	fd00::20b:b:b:b[INFO: Controller] :#7 Temperature: 27.354422, Humidity: 42.192638, Pressure: 106050.492188
+00:39.265	ID:1	fd00::206:6:6:6[INFO: Controller] :#8 Temperature: 26.065495, Humidity: 40.168201, Pressure: 106049.757812
+00:39.353	ID:1	fd00::202:2:2:2[INFO: Controller] :#7 Temperature: 26.942717, Humidity: 43.650768, Pressure: 106049.406250
+00:39.359	ID:1	fd00::204:4:4:4[INFO: Controller] :#7 Temperature: 26.676020, Humidity: 41.368523, Pressure: 106051.351562
+00:39.362	ID:1	fd00::212:12:12:12[INFO: Controller] :#7 Temperature: 28.009953, Humidity: 43.303989, Pressure: 106049.382812
+00:39.460	ID:1	fd00::207:7:7:7[INFO: Controller] :#9 Temperature: 25.876085, Humidity: 41.390461, Pressure: 106048.984375
+00:39.476	ID:1	fd00::20e:e:e:e[INFO: Controller] :#8 Temperature: 26.133238, Humidity: 42.424606, Pressure: 106048.882812
+00:39.490	ID:1	fd00::210:10:10:10[INFO: Controller] :#7 Temperature: 25.706791, Humidity: 41.028965, Pressure: 106050.992188
+00:39.508	ID:1	fd00::214:14:14:14[INFO: Controller] :#8 Temperature: 26.798494, Humidity: 42.288818, Pressure: 106051.429688
+00:39.511	ID:1	fd00::219:19:19:19[INFO: Controller] :#8 Temperature: 24.797619, Humidity: 41.115379, Pressure: 106049.914062
+00:39.554	ID:1	fd00::20f:f:f:f[INFO: Controller] :#7 Temperature: 25.678175, Humidity: 40.793545, Pressure: 106048.960938
+00:39.573	ID:1	fd00::20a:a:a:a[INFO: Controller] :#8 Temperature: 27.107843, Humidity: 40.693394, Pressure: 106048.320312
+00:39.605	ID:1	fd00::20c:c:c:c[INFO: Controller] :#7 Temperature: 26.015762, Humidity: 40.694145, Pressure: 106050.359375
+00:39.711	ID:1	fd00::216:16:16:16[INFO: Controller] :#9 Temperature: 28.341946, Humidity: 42.622288, Pressure: 106049.757812
+00:39.725	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#6 Temperature: 25.837790, Humidity: 42.639584, Pressure: 106052.828125
+00:39.737	ID:1	fd00::209:9:9:9[INFO: Controller] :#8 Temperature: 25.645298, Humidity: 41.980164, Pressure: 106049.640625
+00:39.746	ID:1	fd00::213:13:13:13[INFO: Controller] :#6 Temperature: 25.322817, Humidity: 39.780186, Pressure: 106048.539062
+00:39.757	ID:1	fd00::205:5:5:5[INFO: Controller] :#8 Temperature: 26.508606, Humidity: 41.426693, Pressure: 106049.210938
+00:39.831	ID:1	fd00::211:11:11:11[INFO: Controller] :#9 Temperature: 26.457241, Humidity: 42.041054, Pressure: 106049.937500
+00:39.906	ID:1	fd00::20d:d:d:d[INFO: Controller] :#8 Temperature: 25.592031, Humidity: 42.528393, Pressure: 106048.226562
+00:39.964	ID:1	fd00::215:15:15:15[INFO: Controller] :#9 Temperature: 26.358976, Humidity: 40.950394, Pressure: 106047.609375
+00:39.967	ID:1	fd00::203:3:3:3[INFO: Controller] :#6 Temperature: 26.541451, Humidity: 40.923977, Pressure: 106049.179688
+00:40.023	ID:1	fd00::217:17:17:17[INFO: Controller] :#6 Temperature: 26.845339, Humidity: 41.852551, Pressure: 106049.687500
+00:42.087	ID:1	fd00::218:18:18:18[INFO: Controller] :#8 Temperature: 26.426491, Humidity: 41.630692, Pressure: 106051.140625
+00:42.101	ID:1	fd00::208:8:8:8[INFO: Controller] :#8 Temperature: 27.438513, Humidity: 39.393227, Pressure: 106050.710938
+00:42.210	ID:1	fd00::20b:b:b:b[INFO: Controller] :#8 Temperature: 25.950783, Humidity: 41.405136, Pressure: 106049.890625
+00:42.265	ID:1	fd00::206:6:6:6[INFO: Controller] :#9 Temperature: 26.052132, Humidity: 42.089321, Pressure: 106050.781250
+00:42.275	ID:1	fd00::202:2:2:2[INFO: Controller] :#8 Temperature: 27.450907, Humidity: 40.971195, Pressure: 106050.140625
+00:42.347	ID:1	fd00::212:12:12:12[INFO: Controller] :#8 Temperature: 27.255209, Humidity: 42.458679, Pressure: 106051.640625
+00:42.387	ID:1	fd00::204:4:4:4[INFO: Controller] :#8 Temperature: 27.006796, Humidity: 40.647629, Pressure: 106050.250000
+00:42.447	ID:1	fd00::207:7:7:7[INFO: Controller] :#10 Temperature: 24.423311, Humidity: 41.627697, Pressure: 106050.523438
+00:42.476	ID:1	fd00::20e:e:e:e[INFO: Controller] :#9 Temperature: 25.746817, Humidity: 41.901066, Pressure: 106051.500000
+00:42.493	ID:1	fd00::219:19:19:19[INFO: Controller] :#9 Temperature: 25.270924, Humidity: 40.642044, Pressure: 106050.085938
+00:42.506	ID:1	fd00::210:10:10:10[INFO: Controller] :#8 Temperature: 26.636467, Humidity: 41.960564, Pressure: 106049.656250
+00:42.519	ID:1	fd00::214:14:14:14[INFO: Controller] :#9 Temperature: 26.686749, Humidity: 42.663097, Pressure: 106050.890625
+00:42.526	ID:1	fd00::20f:f:f:f[INFO: Controller] :#8 Temperature: 26.404940, Humidity: 40.526001, Pressure: 106048.492188
+00:42.589	ID:1	fd00::20a:a:a:a[INFO: Controller] :#9 Temperature: 25.931974, Humidity: 41.177277, Pressure: 106049.351562
+00:42.636	ID:1	fd00::20c:c:c:c[INFO: Controller] :#8 Temperature: 24.498421, Humidity: 42.863266, Pressure: 106049.632812
+00:42.705	ID:1	fd00::216:16:16:16[INFO: Controller] :#10 Temperature: 25.297010, Humidity: 40.524879, Pressure: 106050.273438
+00:42.721	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#7 Temperature: 26.910030, Humidity: 40.742573, Pressure: 106049.421875
+00:42.731	ID:1	fd00::209:9:9:9[INFO: Controller] :#9 Temperature: 24.926746, Humidity: 41.296787, Pressure: 106050.117188
+00:42.744	ID:1	fd00::205:5:5:5[INFO: Controller] :#9 Temperature: 27.514009, Humidity: 41.912910, Pressure: 106050.320312
+00:42.757	ID:1	fd00::213:13:13:13[INFO: Controller] :#7 Temperature: 24.708977, Humidity: 39.633732, Pressure: 106049.335938
+00:42.834	ID:1	fd00::211:11:11:11[INFO: Controller] :#10 Temperature: 26.462702, Humidity: 42.378735, Pressure: 106048.085938
+00:42.917	ID:1	fd00::203:3:3:3[INFO: Controller] :#7 Temperature: 24.824074, Humidity: 42.667240, Pressure: 106051.882812
+00:42.932	ID:1	fd00::215:15:15:15[INFO: Controller] :#10 Temperature: 24.141809, Humidity: 44.386101, Pressure: 106049.406250
+00:42.938	ID:1	fd00::20d:d:d:d[INFO: Controller] :#9 Temperature: 25.750807, Humidity: 42.952999, Pressure: 106049.570312
+00:42.975	ID:1	fd00::217:17:17:17[INFO: Controller] :#7 Temperature: 25.903297, Humidity: 41.345329, Pressure: 106051.960938
+00:45.069	ID:1	fd00::218:18:18:18[INFO: Controller] :#9 Temperature: 25.070011, Humidity: 42.355038, Pressure: 106048.875000
+00:45.093	ID:1	fd00::208:8:8:8[INFO: Controller] :#9 Temperature: 24.456444, Humidity: 40.666592, Pressure: 106050.203125
+00:45.223	ID:1	fd00::20b:b:b:b[INFO: Controller] :#9 Temperature: 26.762327, Humidity: 44.116253, Pressure: 106049.320312
+00:45.250	ID:1	fd00::202:2:2:2[INFO: Controller] :#9 Temperature: 24.506351, Humidity: 42.363552, Pressure: 106050.257812
+00:45.267	ID:1	fd00::206:6:6:6[INFO: Controller] :#10 Temperature: 26.929958, Humidity: 44.412872, Pressure: 106052.343750
+00:45.373	ID:1	fd00::212:12:12:12[INFO: Controller] :#9 Temperature: 25.692545, Humidity: 43.581665, Pressure: 106050.335938
+00:45.379	ID:1	fd00::204:4:4:4[INFO: Controller] :#9 Temperature: 26.449890, Humidity: 42.422554, Pressure: 106049.046875
+00:45.432	ID:1	fd00::207:7:7:7[INFO: Controller] :#11 Temperature: 26.899107, Humidity: 40.407589, Pressure: 106050.828125
+00:45.484	ID:1	fd00::20e:e:e:e[INFO: Controller] :#10 Temperature: 25.246704, Humidity: 41.368568, Pressure: 106049.304688
+00:45.487	ID:1	fd00::214:14:14:14[INFO: Controller] :#10 Temperature: 27.159508, Humidity: 42.517727, Pressure: 106049.531250
+00:45.495	ID:1	fd00::219:19:19:19[INFO: Controller] :#10 Temperature: 26.321310, Humidity: 41.185291, Pressure: 106049.031250
+00:45.507	ID:1	fd00::20f:f:f:f[INFO: Controller] :#9 Temperature: 27.062239, Humidity: 42.029026, Pressure: 106049.875000
+00:45.583	ID:1	fd00::210:10:10:10[INFO: Controller] :#9 Temperature: 28.024282, Humidity: 43.280941, Pressure: 106049.890625
+00:45.607	ID:1	fd00::20a:a:a:a[INFO: Controller] :#10 Temperature: 27.278910, Humidity: 41.889732, Pressure: 106049.593750
+00:45.617	ID:1	fd00::20c:c:c:c[INFO: Controller] :#9 Temperature: 26.695330, Humidity: 42.498165, Pressure: 106049.796875
+00:45.715	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#8 Temperature: 27.010689, Humidity: 42.025814, Pressure: 106048.390625
+00:45.727	ID:1	fd00::209:9:9:9[INFO: Controller] :#10 Temperature: 28.409407, Humidity: 40.423660, Pressure: 106049.851562
+00:45.761	ID:1	fd00::205:5:5:5[INFO: Controller] :#10 Temperature: 26.888334, Humidity: 40.659721, Pressure: 106050.250000
+00:45.764	ID:1	fd00::213:13:13:13[INFO: Controller] :#8 Temperature: 25.140865, Humidity: 42.194130, Pressure: 106051.085938
+00:45.783	ID:1	fd00::216:16:16:16[INFO: Controller] :#11 Temperature: 23.923918, Humidity: 40.555012, Pressure: 106050.398438
+00:45.845	ID:1	fd00::211:11:11:11[INFO: Controller] :#11 Temperature: 27.561401, Humidity: 42.654354, Pressure: 106049.179688
+00:45.920	ID:1	fd00::203:3:3:3[INFO: Controller] :#8 Temperature: 25.222628, Humidity: 40.832966, Pressure: 106050.007812
+00:45.928	ID:1	fd00::20d:d:d:d[INFO: Controller] :#10 Temperature: 26.697617, Humidity: 41.253952, Pressure: 106049.093750
+00:45.960	ID:1	fd00::217:17:17:17[INFO: Controller] :#8 Temperature: 27.678503, Humidity: 42.294117, Pressure: 106049.140625
+00:45.993	ID:1	fd00::215:15:15:15[INFO: Controller] :#11 Temperature: 26.570501, Humidity: 39.798042, Pressure: 106050.445312
+00:48.084	ID:1	fd00::218:18:18:18[INFO: Controller] :#10 Temperature: 27.668024, Humidity: 40.861126, Pressure: 106050.132812
+00:48.093	ID:1	fd00::208:8:8:8[INFO: Controller] :#10 Temperature: 26.762672, Humidity: 41.711346, Pressure: 106049.007812
+00:48.212	ID:1	fd00::20b:b:b:b[INFO: Controller] :#10 Temperature: 25.962080, Humidity: 41.649338, Pressure: 106051.234375
+00:48.271	ID:1	fd00::206:6:6:6[INFO: Controller] :#11 Temperature: 24.974459, Humidity: 42.044224, Pressure: 106050.976562
+00:48.288	ID:1	fd00::202:2:2:2[INFO: Controller] :#10 Temperature: 27.442497, Humidity: 42.050594, Pressure: 106050.414062
+00:48.355	ID:1	fd00::212:12:12:12[INFO: Controller] :#10 Temperature: 27.111170, Humidity: 41.340195, Pressure: 106049.718750
+00:48.381	ID:1	fd00::204:4:4:4[INFO: Controller] :#10 Temperature: 26.891296, Humidity: 40.986584, Pressure: 106048.210938
+00:48.427	ID:1	fd00::207:7:7:7[INFO: Controller] :#12 Temperature: 26.026510, Humidity: 41.594143, Pressure: 106048.960938
+00:48.480	ID:1	fd00::219:19:19:19[INFO: Controller] :#11 Temperature: 26.475473, Humidity: 41.947514, Pressure: 106050.023438
+00:48.483	ID:1	fd00::20e:e:e:e[INFO: Controller] :#11 Temperature: 26.035736, Humidity: 42.679604, Pressure: 106051.656250
+00:48.511	ID:1	fd00::20f:f:f:f[INFO: Controller] :#10 Temperature: 25.722574, Humidity: 42.489037, Pressure: 106049.921875
+00:48.568	ID:1	fd00::210:10:10:10[INFO: Controller] :#10 Temperature: 24.995840, Humidity: 43.384457, Pressure: 106049.648438
+00:48.587	ID:1	fd00::20a:a:a:a[INFO: Controller] :#11 Temperature: 28.369020, Humidity: 40.346237, Pressure: 106052.421875
+00:48.641	ID:1	fd00::20c:c:c:c[INFO: Controller] :#10 Temperature: 27.639448, Humidity: 44.304104, Pressure: 106048.742188
+00:48.646	ID:1	fd00::214:14:14:14[INFO: Controller] :#11 Temperature: 25.027742, Humidity: 40.166019, Pressure: 106050.898438
+00:48.692	ID:1	fd00::216:16:16:16[INFO: Controller] :#12 Temperature: 26.485964, Humidity: 41.729443, Pressure: 106049.390625
+00:48.726	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#9 Temperature: 25.807810, Humidity: 43.656284, Pressure: 106050.351562
+00:48.729	ID:1	fd00::209:9:9:9[INFO: Controller] :#11 Temperature: 24.770254, Humidity: 42.515484, Pressure: 106051.703125
+00:48.749	ID:1	fd00::213:13:13:13[INFO: Controller] :#9 Temperature: 26.665030, Humidity: 40.193966, Pressure: 106049.242188
+00:48.767	ID:1	fd00::205:5:5:5[INFO: Controller] :#11 Temperature: 25.307110, Humidity: 42.619148, Pressure: 106050.296875
+00:48.848	ID:1	fd00::211:11:11:11[INFO: Controller] :#12 Temperature: 25.442833, Humidity: 42.843037, Pressure: 106050.953125
+00:48.911	ID:1	fd00::20d:d:d:d[INFO: Controller] :#11 Temperature: 27.543428, Humidity: 43.255306, Pressure: 106050.218750
+00:48.923	ID:1	fd00::203:3:3:3[INFO: Controller] :#9 Temperature: 27.287964, Humidity: 41.859150, Pressure: 106048.859375
+00:48.952	ID:1	fd00::215:15:15:15[INFO: Controller] :#12 Temperature: 27.054523, Humidity: 42.248436, Pressure: 106049.265625
+00:48.985	ID:1	fd00::217:17:17:17[INFO: Controller] :#9 Temperature: 25.099556, Humidity: 43.459549, Pressure: 106051.554688
+00:51.091	ID:1	fd00::218:18:18:18[INFO: Controller] :#11 Temperature: 26.698647, Humidity: 42.387825, Pressure: 106051.007812
+00:51.122	ID:1	fd00::208:8:8:8[INFO: Controller] :#11 Temperature: 26.015774, Humidity: 39.542412, Pressure: 106051.242188
+00:51.234	ID:1	fd00::20b:b:b:b[INFO: Controller] :#11 Temperature: 24.986938, Humidity: 43.739239, Pressure: 106052.890625
+00:51.277	ID:1	fd00::202:2:2:2[INFO: Controller] :#11 Temperature: 27.321644, Humidity: 41.462471, Pressure: 106051.492188
+00:51.302	ID:1	fd00::206:6:6:6[INFO: Controller] :#12 Temperature: 25.850367, Humidity: 43.631863, Pressure: 106048.992188
+00:51.369	ID:1	fd00::212:12:12:12[INFO: Controller] :#11 Temperature: 25.764561, Humidity: 39.698715, Pressure: 106050.171875
+00:51.374	ID:1	fd00::204:4:4:4[INFO: Controller] :#11 Temperature: 24.564503, Humidity: 42.496719, Pressure: 106049.851562
+00:51.431	ID:1	fd00::207:7:7:7[INFO: Controller] :#13 Temperature: 27.693420, Humidity: 41.812778, Pressure: 106050.835938
+00:51.476	ID:1	fd00::20e:e:e:e[INFO: Controller] :#12 Temperature: 26.910446, Humidity: 40.591679, Pressure: 106048.843750
+00:51.504	ID:1	fd00::219:19:19:19[INFO: Controller] :#12 Temperature: 26.046272, Humidity: 40.259369, Pressure: 106048.773438
+00:51.507	ID:1	fd00::210:10:10:10[INFO: Controller] :#11 Temperature: 25.141830, Humidity: 42.396790, Pressure: 106049.523438
+00:51.525	ID:1	fd00::214:14:14:14[INFO: Controller] :#12 Temperature: 24.466232, Humidity: 42.262970, Pressure: 106049.687500
+00:51.556	ID:1	fd00::20f:f:f:f[INFO: Controller] :#11 Temperature: 25.177425, Humidity: 43.899086, Pressure: 106051.007812
+00:51.577	ID:1	fd00::20a:a:a:a[INFO: Controller] :#12 Temperature: 27.743713, Humidity: 41.556252, Pressure: 106049.640625
+00:51.609	ID:1	fd00::20c:c:c:c[INFO: Controller] :#11 Temperature: 28.521406, Humidity: 41.596928, Pressure: 106050.632812
+00:51.712	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#10 Temperature: 27.727867, Humidity: 40.469624, Pressure: 106050.546875
+00:51.721	ID:1	fd00::216:16:16:16[INFO: Controller] :#13 Temperature: 25.700701, Humidity: 42.389366, Pressure: 106050.093750
+00:51.749	ID:1	fd00::213:13:13:13[INFO: Controller] :#10 Temperature: 27.268984, Humidity: 40.391647, Pressure: 106048.796875
+00:51.754	ID:1	fd00::205:5:5:5[INFO: Controller] :#12 Temperature: 25.153212, Humidity: 41.080856, Pressure: 106050.804688
+00:51.759	ID:1	fd00::209:9:9:9[INFO: Controller] :#12 Temperature: 27.650961, Humidity: 42.647411, Pressure: 106048.843750
+00:51.843	ID:1	fd00::211:11:11:11[INFO: Controller] :#13 Temperature: 26.952972, Humidity: 41.907787, Pressure: 106049.695312
+00:51.914	ID:1	fd00::203:3:3:3[INFO: Controller] :#10 Temperature: 27.147156, Humidity: 40.468266, Pressure: 106048.835938
+00:51.934	ID:1	fd00::20d:d:d:d[INFO: Controller] :#12 Temperature: 26.186750, Humidity: 42.498230, Pressure: 106050.687500
+00:51.963	ID:1	fd00::215:15:15:15[INFO: Controller] :#13 Temperature: 24.839106, Humidity: 42.641468, Pressure: 106050.226562
+00:51.975	ID:1	fd00::217:17:17:17[INFO: Controller] :#10 Temperature: 24.868824, Humidity: 42.215992, Pressure: 106050.921875
+00:54.077	ID:1	fd00::218:18:18:18[INFO: Controller] :#12 Temperature: 25.975140, Humidity: 41.684689, Pressure: 106051.460938
+00:54.129	ID:1	fd00::208:8:8:8[INFO: Controller] :#12 Temperature: 26.970106, Humidity: 41.319401, Pressure: 106050.367188
+00:54.237	ID:1	fd00::20b:b:b:b[INFO: Controller] :#12 Temperature: 23.956018, Humidity: 41.167404, Pressure: 106049.718750
+00:54.256	ID:1	fd00::202:2:2:2[INFO: Controller] :#12 Temperature: 27.163469, Humidity: 41.092464, Pressure: 106048.289062
+00:54.279	ID:1	fd00::206:6:6:6[INFO: Controller] :#13 Temperature: 26.142939, Humidity: 43.585766, Pressure: 106050.414062
+00:54.366	ID:1	fd00::212:12:12:12[INFO: Controller] :#12 Temperature: 25.350426, Humidity: 41.160896, Pressure: 106049.398438
+00:54.394	ID:1	fd00::204:4:4:4[INFO: Controller] :#12 Temperature: 26.146507, Humidity: 40.447865, Pressure: 106048.531250
+00:54.422	ID:1	fd00::207:7:7:7[INFO: Controller] :#14 Temperature: 25.699638, Humidity: 40.866398, Pressure: 106051.585938
+00:54.473	ID:1	fd00::20e:e:e:e[INFO: Controller] :#13 Temperature: 24.790428, Humidity: 41.094013, Pressure: 106048.664062
+00:54.504	ID:1	fd00::210:10:10:10[INFO: Controller] :#12 Temperature: 25.714888, Humidity: 42.321102, Pressure: 106049.343750
+00:54.514	ID:1	fd00::219:19:19:19[INFO: Controller] :#13 Temperature: 28.096365, Humidity: 42.060753, Pressure: 106049.093750
+00:54.519	ID:1	fd00::20f:f:f:f[INFO: Controller] :#12 Temperature: 26.784010, Humidity: 40.573635, Pressure: 106050.429688
+00:54.540	ID:1	fd00::214:14:14:14[INFO: Controller] :#13 Temperature: 24.817379, Humidity: 41.519291, Pressure: 106049.898438
+00:54.612	ID:1	fd00::20a:a:a:a[INFO: Controller] :#13 Temperature: 25.403975, Humidity: 44.007965, Pressure: 106049.546875
+00:54.619	ID:1	fd00::20c:c:c:c[INFO: Controller] :#12 Temperature: 25.091160, Humidity: 41.587856, Pressure: 106050.156250
+00:54.704	ID:1	fd00::216:16:16:16[INFO: Controller] :#14 Temperature: 24.559565, Humidity: 42.234318, Pressure: 106050.664062
+00:54.741	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#11 Temperature: 26.526993, Humidity: 42.769997, Pressure: 106050.023438
+00:54.747	ID:1	fd00::213:13:13:13[INFO: Controller] :#11 Temperature: 25.737875, Humidity: 42.859947, Pressure: 106053.054688
+00:54.752	ID:1	fd00::209:9:9:9[INFO: Controller] :#13 Temperature: 27.633257, Humidity: 45.610233, Pressure: 106051.375000
+00:54.758	ID:1	fd00::205:5:5:5[INFO: Controller] :#13 Temperature: 25.449358, Humidity: 41.103374, Pressure: 106048.437500
+00:54.841	ID:1	fd00::211:11:11:11[INFO: Controller] :#14 Temperature: 26.675419, Humidity: 43.173332, Pressure: 106049.476562
+00:54.931	ID:1	fd00::20d:d:d:d[INFO: Controller] :#13 Temperature: 25.479506, Humidity: 40.984303, Pressure: 106049.312500
+00:54.958	ID:1	fd00::203:3:3:3[INFO: Controller] :#11 Temperature: 28.341898, Humidity: 41.104137, Pressure: 106049.359375
+00:54.967	ID:1	fd00::215:15:15:15[INFO: Controller] :#14 Temperature: 26.960814, Humidity: 41.881153, Pressure: 106048.914062
+00:54.976	ID:1	fd00::217:17:17:17[INFO: Controller] :#11 Temperature: 24.334860, Humidity: 42.753338, Pressure: 106049.820312
+00:57.053	ID:1	fd00::218:18:18:18[INFO: Controller] :#13 Temperature: 26.383224, Humidity: 41.081860, Pressure: 106049.851562
+00:57.114	ID:1	fd00::208:8:8:8[INFO: Controller] :#13 Temperature: 26.719646, Humidity: 40.756439, Pressure: 106050.718750
+00:57.231	ID:1	fd00::20b:b:b:b[INFO: Controller] :#13 Temperature: 27.299984, Humidity: 43.925953, Pressure: 106049.507812
+00:57.264	ID:1	fd00::202:2:2:2[INFO: Controller] :#13 Temperature: 27.813267, Humidity: 43.312355, Pressure: 106051.375000
+00:57.291	ID:1	fd00::206:6:6:6[INFO: Controller] :#14 Temperature: 25.870354, Humidity: 42.068462, Pressure: 106050.109375
+00:57.376	ID:1	fd00::212:12:12:12[INFO: Controller] :#13 Temperature: 26.169365, Humidity: 41.451683, Pressure: 106050.335938
+00:57.381	ID:1	fd00::204:4:4:4[INFO: Controller] :#13 Temperature: 26.968946, Humidity: 40.838917, Pressure: 106050.531250
+00:57.460	ID:1	fd00::207:7:7:7[INFO: Controller] :#15 Temperature: 27.205030, Humidity: 44.691315, Pressure: 106051.445312
+00:57.501	ID:1	fd00::20f:f:f:f[INFO: Controller] :#13 Temperature: 24.719589, Humidity: 41.766308, Pressure: 106049.195312
+00:57.510	ID:1	fd00::20e:e:e:e[INFO: Controller] :#14 Temperature: 25.720345, Humidity: 43.269955, Pressure: 106049.281250
+00:57.515	ID:1	fd00::210:10:10:10[INFO: Controller] :#13 Temperature: 25.360832, Humidity: 42.937523, Pressure: 106048.914062
+00:57.522	ID:1	fd00::214:14:14:14[INFO: Controller] :#14 Temperature: 25.842207, Humidity: 43.449596, Pressure: 106051.109375
+00:57.529	ID:1	fd00::219:19:19:19[INFO: Controller] :#14 Temperature: 25.424120, Humidity: 41.657692, Pressure: 106049.890625
+00:57.604	ID:1	fd00::20a:a:a:a[INFO: Controller] :#14 Temperature: 27.980034, Humidity: 41.648998, Pressure: 106049.125000
+00:57.627	ID:1	fd00::20c:c:c:c[INFO: Controller] :#13 Temperature: 24.981966, Humidity: 42.260014, Pressure: 106050.921875
+00:57.693	ID:1	fd00::216:16:16:16[INFO: Controller] :#15 Temperature: 26.802095, Humidity: 42.136196, Pressure: 106048.750000
+00:57.728	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#12 Temperature: 26.615412, Humidity: 41.954609, Pressure: 106048.835938
+00:57.749	ID:1	fd00::213:13:13:13[INFO: Controller] :#12 Temperature: 26.727930, Humidity: 43.764957, Pressure: 106050.921875
+00:57.764	ID:1	fd00::209:9:9:9[INFO: Controller] :#14 Temperature: 27.292547, Humidity: 41.796368, Pressure: 106050.367188
+00:57.774	ID:1	fd00::205:5:5:5[INFO: Controller] :#14 Temperature: 25.572510, Humidity: 42.375721, Pressure: 106049.460938
+00:57.848	ID:1	fd00::211:11:11:11[INFO: Controller] :#15 Temperature: 26.494904, Humidity: 43.163982, Pressure: 106051.500000
+00:57.911	ID:1	fd00::20d:d:d:d[INFO: Controller] :#14 Temperature: 24.700001, Humidity: 41.561592, Pressure: 106049.429688
+00:57.936	ID:1	fd00::203:3:3:3[INFO: Controller] :#12 Temperature: 27.572811, Humidity: 42.523815, Pressure: 106051.132812
+00:57.982	ID:1	fd00::217:17:17:17[INFO: Controller] :#12 Temperature: 26.187469, Humidity: 42.622887, Pressure: 106050.773438
+00:58.040	ID:1	fd00::215:15:15:15[INFO: Controller] :#15 Temperature: 26.396082, Humidity: 40.967476, Pressure: 106051.835938
+01:00.077	ID:1	fd00::218:18:18:18[INFO: Controller] :#14 Temperature: 26.468126, Humidity: 41.318672, Pressure: 106049.046875
+01:00.123	ID:1	fd00::208:8:8:8[INFO: Controller] :#14 Temperature: 26.735409, Humidity: 40.771275, Pressure: 106051.171875
+01:00.210	ID:1	fd00::20b:b:b:b[INFO: Controller] :#14 Temperature: 27.338781, Humidity: 41.910542, Pressure: 106048.500000
+01:00.286	ID:1	fd00::206:6:6:6[INFO: Controller] :#15 Temperature: 25.431873, Humidity: 41.820942, Pressure: 106049.953125
+01:00.292	ID:1	fd00::202:2:2:2[INFO: Controller] :#14 Temperature: 24.923416, Humidity: 41.784706, Pressure: 106049.539062
+01:00.382	ID:1	fd00::212:12:12:12[INFO: Controller] :#14 Temperature: 25.845028, Humidity: 42.169724, Pressure: 106050.570312
+01:00.407	ID:1	fd00::204:4:4:4[INFO: Controller] :#14 Temperature: 27.251217, Humidity: 41.853603, Pressure: 106051.382812
+01:00.438	ID:1	fd00::207:7:7:7[INFO: Controller] :#16 Temperature: 25.748205, Humidity: 41.529919, Pressure: 106048.546875
+01:00.494	ID:1	fd00::20e:e:e:e[INFO: Controller] :#15 Temperature: 25.926907, Humidity: 39.108124, Pressure: 106049.835938
+01:00.514	ID:1	fd00::214:14:14:14[INFO: Controller] :#15 Temperature: 26.121416, Humidity: 40.755363, Pressure: 106048.851562
+01:00.521	ID:1	fd00::219:19:19:19[INFO: Controller] :#15 Temperature: 26.010401, Humidity: 42.341602, Pressure: 106049.859375
+01:00.554	ID:1	fd00::210:10:10:10[INFO: Controller] :#14 Temperature: 25.802633, Humidity: 41.681053, Pressure: 106048.273438
+01:00.581	ID:1	fd00::20f:f:f:f[INFO: Controller] :#14 Temperature: 23.813133, Humidity: 40.632278, Pressure: 106048.757812
+01:00.588	ID:1	fd00::20a:a:a:a[INFO: Controller] :#15 Temperature: 25.225048, Humidity: 41.457039, Pressure: 106047.828125
+01:00.645	ID:1	fd00::20c:c:c:c[INFO: Controller] :#14 Temperature: 25.964413, Humidity: 43.462868, Pressure: 106050.703125
+01:00.709	ID:1	fd00::216:16:16:16[INFO: Controller] :#16 Temperature: 26.286518, Humidity: 39.686974, Pressure: 106048.898438
+01:00.735	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#13 Temperature: 26.903072, Humidity: 42.713810, Pressure: 106049.773438
+01:00.741	ID:1	fd00::205:5:5:5[INFO: Controller] :#15 Temperature: 26.081181, Humidity: 41.036583, Pressure: 106050.742188
+01:00.755	ID:1	fd00::209:9:9:9[INFO: Controller] :#15 Temperature: 26.856577, Humidity: 39.480438, Pressure: 106050.875000
+01:00.768	ID:1	fd00::213:13:13:13[INFO: Controller] :#13 Temperature: 25.436859, Humidity: 42.772133, Pressure: 106049.867188
+01:00.849	ID:1	fd00::211:11:11:11[INFO: Controller] :#16 Temperature: 25.075798, Humidity: 42.702541, Pressure: 106049.125000
+01:00.925	ID:1	fd00::20d:d:d:d[INFO: Controller] :#15 Temperature: 24.795090, Humidity: 41.218933, Pressure: 106049.992188
+01:00.928	ID:1	fd00::203:3:3:3[INFO: Controller] :#13 Temperature: 25.011288, Humidity: 43.513332, Pressure: 106052.343750
+01:00.963	ID:1	fd00::215:15:15:15[INFO: Controller] :#16 Temperature: 28.296291, Humidity: 42.021065, Pressure: 106051.445312
+01:00.985	ID:1	fd00::217:17:17:17[INFO: Controller] :#13 Temperature: 26.078617, Humidity: 40.123638, Pressure: 106051.882812
+01:03.083	ID:1	fd00::218:18:18:18[INFO: Controller] :#15 Temperature: 24.528198, Humidity: 41.736759, Pressure: 106050.843750
+01:03.130	ID:1	fd00::208:8:8:8[INFO: Controller] :#15 Temperature: 28.258989, Humidity: 43.056061, Pressure: 106049.304688
+01:03.215	ID:1	fd00::20b:b:b:b[INFO: Controller] :#15 Temperature: 25.778162, Humidity: 41.124989, Pressure: 106049.414062
+01:03.263	ID:1	fd00::202:2:2:2[INFO: Controller] :#15 Temperature: 25.634514, Humidity: 41.325390, Pressure: 106048.937500
+01:03.278	ID:1	fd00::206:6:6:6[INFO: Controller] :#16 Temperature: 25.333582, Humidity: 42.918785, Pressure: 106051.109375
+01:03.369	ID:1	fd00::212:12:12:12[INFO: Controller] :#15 Temperature: 24.332191, Humidity: 42.511486, Pressure: 106049.171875
+01:03.401	ID:1	fd00::204:4:4:4[INFO: Controller] :#15 Temperature: 25.934868, Humidity: 42.396755, Pressure: 106048.601562
+01:03.456	ID:1	fd00::207:7:7:7[INFO: Controller] :#17 Temperature: 25.346790, Humidity: 42.818272, Pressure: 106049.835938
+01:03.484	ID:1	fd00::20e:e:e:e[INFO: Controller] :#16 Temperature: 26.468842, Humidity: 42.057598, Pressure: 106048.648438
+01:03.489	ID:1	fd00::20f:f:f:f[INFO: Controller] :#15 Temperature: 24.412792, Humidity: 41.731754, Pressure: 106050.507812
+01:03.509	ID:1	fd00::214:14:14:14[INFO: Controller] :#16 Temperature: 26.463799, Humidity: 40.445499, Pressure: 106050.093750
+01:03.522	ID:1	fd00::210:10:10:10[INFO: Controller] :#15 Temperature: 26.390064, Humidity: 42.852936, Pressure: 106050.062500
+01:03.616	ID:1	fd00::20a:a:a:a[INFO: Controller] :#16 Temperature: 28.586824, Humidity: 40.822868, Pressure: 106049.695312
+01:03.632	ID:1	fd00::219:19:19:19[INFO: Controller] :#16 Temperature: 25.921152, Humidity: 41.728317, Pressure: 106051.945312
+01:03.648	ID:1	fd00::20c:c:c:c[INFO: Controller] :#15 Temperature: 25.931623, Humidity: 39.914219, Pressure: 106048.718750
+01:03.716	ID:1	fd00::216:16:16:16[INFO: Controller] :#17 Temperature: 25.720251, Humidity: 41.527924, Pressure: 106051.125000
+01:03.733	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#14 Temperature: 24.232248, Humidity: 41.412941, Pressure: 106050.562500
+01:03.739	ID:1	fd00::205:5:5:5[INFO: Controller] :#16 Temperature: 28.758945, Humidity: 41.898102, Pressure: 106049.804688
+01:03.757	ID:1	fd00::209:9:9:9[INFO: Controller] :#16 Temperature: 25.839062, Humidity: 42.024239, Pressure: 106049.570312
+01:03.760	ID:1	fd00::213:13:13:13[INFO: Controller] :#14 Temperature: 24.586309, Humidity: 42.473213, Pressure: 106051.820312
+01:03.863	ID:1	fd00::211:11:11:11[INFO: Controller] :#17 Temperature: 28.053928, Humidity: 42.071747, Pressure: 106050.046875
+01:03.930	ID:1	fd00::20d:d:d:d[INFO: Controller] :#16 Temperature: 26.819750, Humidity: 43.099712, Pressure: 106049.835938
+01:03.951	ID:1	fd00::203:3:3:3[INFO: Controller] :#14 Temperature: 27.564703, Humidity: 42.524799, Pressure: 106050.312500
+01:03.954	ID:1	fd00::215:15:15:15[INFO: Controller] :#17 Temperature: 25.901134, Humidity: 40.159073, Pressure: 106050.187500
+01:03.988	ID:1	fd00::217:17:17:17[INFO: Controller] :#14 Temperature: 26.438057, Humidity: 42.921108, Pressure: 106051.375000
+01:06.059	ID:1	fd00::218:18:18:18[INFO: Controller] :#16 Temperature: 25.593710, Humidity: 41.210430, Pressure: 106049.101562
+01:06.100	ID:1	fd00::208:8:8:8[INFO: Controller] :#16 Temperature: 26.987196, Humidity: 43.793873, Pressure: 106049.859375
+01:06.246	ID:1	fd00::20b:b:b:b[INFO: Controller] :#16 Temperature: 25.278975, Humidity: 42.738590, Pressure: 106049.671875
+01:06.275	ID:1	fd00::202:2:2:2[INFO: Controller] :#16 Temperature: 27.501202, Humidity: 42.421467, Pressure: 106051.046875
+01:06.344	ID:1	fd00::206:6:6:6[INFO: Controller] :#17 Temperature: 28.253736, Humidity: 43.551899, Pressure: 106049.171875
+01:06.359	ID:1	fd00::212:12:12:12[INFO: Controller] :#16 Temperature: 27.297596, Humidity: 43.884525, Pressure: 106049.882812
+01:06.394	ID:1	fd00::204:4:4:4[INFO: Controller] :#16 Temperature: 27.649206, Humidity: 41.648033, Pressure: 106050.664062
+01:06.456	ID:1	fd00::207:7:7:7[INFO: Controller] :#18 Temperature: 25.373178, Humidity: 43.103210, Pressure: 106049.257812
+01:06.487	ID:1	fd00::20f:f:f:f[INFO: Controller] :#16 Temperature: 28.434734, Humidity: 42.595654, Pressure: 106049.593750
+01:06.501	ID:1	fd00::214:14:14:14[INFO: Controller] :#17 Temperature: 26.511927, Humidity: 42.274982, Pressure: 106048.343750
+01:06.515	ID:1	fd00::219:19:19:19[INFO: Controller] :#17 Temperature: 25.669228, Humidity: 41.457901, Pressure: 106050.375000
+01:06.525	ID:1	fd00::20e:e:e:e[INFO: Controller] :#17 Temperature: 27.399183, Humidity: 40.489788, Pressure: 106049.289062
+01:06.533	ID:1	fd00::210:10:10:10[INFO: Controller] :#16 Temperature: 27.205790, Humidity: 42.051876, Pressure: 106051.414062
+01:06.589	ID:1	fd00::20a:a:a:a[INFO: Controller] :#17 Temperature: 28.708677, Humidity: 38.949211, Pressure: 106046.835938
+01:06.633	ID:1	fd00::20c:c:c:c[INFO: Controller] :#16 Temperature: 27.093159, Humidity: 42.588375, Pressure: 106050.117188
+01:06.701	ID:1	fd00::216:16:16:16[INFO: Controller] :#18 Temperature: 27.618540, Humidity: 41.387409, Pressure: 106049.781250
+01:06.721	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#15 Temperature: 26.520729, Humidity: 42.100067, Pressure: 106052.531250
+01:06.737	ID:1	fd00::209:9:9:9[INFO: Controller] :#17 Temperature: 25.722353, Humidity: 41.908463, Pressure: 106050.984375
+01:06.763	ID:1	fd00::213:13:13:13[INFO: Controller] :#15 Temperature: 24.974224, Humidity: 42.733006, Pressure: 106050.554688
+01:06.770	ID:1	fd00::205:5:5:5[INFO: Controller] :#17 Temperature: 26.054958, Humidity: 42.205017, Pressure: 106050.421875
+01:06.836	ID:1	fd00::211:11:11:11[INFO: Controller] :#18 Temperature: 27.734467, Humidity: 42.892487, Pressure: 106049.250000
+01:06.922	ID:1	fd00::203:3:3:3[INFO: Controller] :#15 Temperature: 25.524868, Humidity: 42.176270, Pressure: 106051.640625
+01:06.945	ID:1	fd00::20d:d:d:d[INFO: Controller] :#17 Temperature: 27.323290, Humidity: 41.867912, Pressure: 106050.093750
+01:06.948	ID:1	fd00::215:15:15:15[INFO: Controller] :#18 Temperature: 25.931759, Humidity: 42.224953, Pressure: 106050.250000
+01:06.999	ID:1	fd00::217:17:17:17[INFO: Controller] :#15 Temperature: 25.484694, Humidity: 42.266289, Pressure: 106053.148438
+01:09.065	ID:1	fd00::218:18:18:18[INFO: Controller] :#17 Temperature: 27.806095, Humidity: 41.979496, Pressure: 106050.445312
+01:09.128	ID:1	fd00::208:8:8:8[INFO: Controller] :#17 Temperature: 26.787859, Humidity: 40.709297, Pressure: 106052.421875
+01:09.233	ID:1	fd00::20b:b:b:b[INFO: Controller] :#17 Temperature: 26.133558, Humidity: 42.986961, Pressure: 106050.851562
+01:09.289	ID:1	fd00::202:2:2:2[INFO: Controller] :#17 Temperature: 25.113647, Humidity: 41.248253, Pressure: 106048.617188
+01:09.312	ID:1	fd00::206:6:6:6[INFO: Controller] :#18 Temperature: 26.051607, Humidity: 43.006683, Pressure: 106050.007812
+01:09.353	ID:1	fd00::212:12:12:12[INFO: Controller] :#17 Temperature: 25.141232, Humidity: 39.099255, Pressure: 106049.281250
+01:09.389	ID:1	fd00::204:4:4:4[INFO: Controller] :#17 Temperature: 28.203688, Humidity: 42.269745, Pressure: 106050.398438
+01:09.465	ID:1	fd00::207:7:7:7[INFO: Controller] :#19 Temperature: 24.815205, Humidity: 40.719429, Pressure: 106050.242188
+01:09.490	ID:1	fd00::214:14:14:14[INFO: Controller] :#18 Temperature: 26.167074, Humidity: 41.269455, Pressure: 106048.632812
+01:09.497	ID:1	fd00::20e:e:e:e[INFO: Controller] :#18 Temperature: 25.431917, Humidity: 40.530846, Pressure: 106050.718750
+01:09.506	ID:1	fd00::219:19:19:19[INFO: Controller] :#18 Temperature: 25.962702, Humidity: 41.868835, Pressure: 106049.640625
+01:09.512	ID:1	fd00::20f:f:f:f[INFO: Controller] :#17 Temperature: 24.153452, Humidity: 41.129642, Pressure: 106048.195312
+01:09.525	ID:1	fd00::210:10:10:10[INFO: Controller] :#17 Temperature: 25.065065, Humidity: 40.677238, Pressure: 106049.914062
+01:09.592	ID:1	fd00::20a:a:a:a[INFO: Controller] :#18 Temperature: 26.901180, Humidity: 42.353344, Pressure: 106050.664062
+01:09.641	ID:1	fd00::20c:c:c:c[INFO: Controller] :#17 Temperature: 26.992065, Humidity: 42.953697, Pressure: 106049.148438
+01:09.725	ID:1	fd00::216:16:16:16[INFO: Controller] :#19 Temperature: 26.891624, Humidity: 42.953552, Pressure: 106049.492188
+01:09.741	ID:1	fd00::209:9:9:9[INFO: Controller] :#18 Temperature: 26.940161, Humidity: 39.768444, Pressure: 106051.187500
+01:09.743	ID:1	fd00::205:5:5:5[INFO: Controller] :#18 Temperature: 25.101795, Humidity: 41.253170, Pressure: 106052.531250
+01:09.746	ID:1	fd00::213:13:13:13[INFO: Controller] :#16 Temperature: 26.805405, Humidity: 40.866814, Pressure: 106049.578125
+01:09.827	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#16 Temperature: 27.661896, Humidity: 43.016651, Pressure: 106050.195312
+01:09.873	ID:1	fd00::211:11:11:11[INFO: Controller] :#19 Temperature: 25.534164, Humidity: 42.807190, Pressure: 106050.492188
+01:09.934	ID:1	fd00::20d:d:d:d[INFO: Controller] :#18 Temperature: 27.307568, Humidity: 42.866863, Pressure: 106049.851562
+01:09.937	ID:1	fd00::215:15:15:15[INFO: Controller] :#19 Temperature: 25.333416, Humidity: 41.023857, Pressure: 106052.281250
+01:09.954	ID:1	fd00::203:3:3:3[INFO: Controller] :#16 Temperature: 26.968983, Humidity: 41.003456, Pressure: 106048.679688
+01:09.983	ID:1	fd00::217:17:17:17[INFO: Controller] :#16 Temperature: 25.425772, Humidity: 42.407032, Pressure: 106049.851562
+01:12.077	ID:1	fd00::218:18:18:18[INFO: Controller] :#18 Temperature: 27.449589, Humidity: 41.859249, Pressure: 106048.867188
+01:12.135	ID:1	fd00::208:8:8:8[INFO: Controller] :#18 Temperature: 25.797096, Humidity: 41.883366, Pressure: 106051.187500
+01:12.244	ID:1	fd00::20b:b:b:b[INFO: Controller] :#18 Temperature: 26.864971, Humidity: 40.064796, Pressure: 106048.484375
+01:12.266	ID:1	fd00::202:2:2:2[INFO: Controller] :#18 Temperature: 25.920828, Humidity: 42.367039, Pressure: 106050.257812
+01:12.290	ID:1	fd00::206:6:6:6[INFO: Controller] :#19 Temperature: 26.905872, Humidity: 41.339981, Pressure: 106048.406250
+01:12.385	ID:1	fd00::212:12:12:12[INFO: Controller] :#18 Temperature: 27.848654, Humidity: 41.787758, Pressure: 106050.554688
+01:12.403	ID:1	fd00::204:4:4:4[INFO: Controller] :#18 Temperature: 27.234358, Humidity: 42.451344, Pressure: 106050.468750
+01:12.428	ID:1	fd00::207:7:7:7[INFO: Controller] :#20 Temperature: 26.748617, Humidity: 43.380993, Pressure: 106049.187500
+01:12.491	ID:1	fd00::214:14:14:14[INFO: Controller] :#19 Temperature: 26.278389, Humidity: 43.095356, Pressure: 106050.750000
+01:12.499	ID:1	fd00::219:19:19:19[INFO: Controller] :#19 Temperature: 25.595015, Humidity: 42.192577, Pressure: 106050.335938
+01:12.507	ID:1	fd00::20e:e:e:e[INFO: Controller] :#19 Temperature: 24.409836, Humidity: 41.742847, Pressure: 106049.250000
+01:12.521	ID:1	fd00::20f:f:f:f[INFO: Controller] :#18 Temperature: 24.159206, Humidity: 41.775650, Pressure: 106050.023438
+01:12.529	ID:1	fd00::210:10:10:10[INFO: Controller] :#18 Temperature: 26.263788, Humidity: 42.527821, Pressure: 106050.195312
+01:12.614	ID:1	fd00::20a:a:a:a[INFO: Controller] :#19 Temperature: 26.206713, Humidity: 40.843266, Pressure: 106052.867188
+01:12.648	ID:1	fd00::20c:c:c:c[INFO: Controller] :#18 Temperature: 26.895220, Humidity: 42.282223, Pressure: 106049.796875
+01:12.695	ID:1	fd00::216:16:16:16[INFO: Controller] :#20 Temperature: 27.225040, Humidity: 41.858330, Pressure: 106049.273438
+01:12.745	ID:1	fd00::209:9:9:9[INFO: Controller] :#19 Temperature: 26.240652, Humidity: 42.562252, Pressure: 106051.281250
+01:12.751	ID:1	fd00::213:13:13:13[INFO: Controller] :#17 Temperature: 27.261324, Humidity: 41.041985, Pressure: 106050.945312
+01:12.767	ID:1	fd00::205:5:5:5[INFO: Controller] :#19 Temperature: 28.079525, Humidity: 40.306152, Pressure: 106049.289062
+01:12.780	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#17 Temperature: 27.164408, Humidity: 43.281425, Pressure: 106051.453125
+01:12.849	ID:1	fd00::211:11:11:11[INFO: Controller] :#20 Temperature: 27.028603, Humidity: 41.949986, Pressure: 106049.882812
+01:12.908	ID:1	fd00::20d:d:d:d[INFO: Controller] :#19 Temperature: 27.133072, Humidity: 41.952087, Pressure: 106049.226562
+01:12.931	ID:1	fd00::215:15:15:15[INFO: Controller] :#20 Temperature: 24.849060, Humidity: 39.498299, Pressure: 106049.382812
+01:12.964	ID:1	fd00::203:3:3:3[INFO: Controller] :#17 Temperature: 27.365868, Humidity: 41.671165, Pressure: 106049.648438
+01:12.977	ID:1	fd00::217:17:17:17[INFO: Controller] :#17 Temperature: 27.103861, Humidity: 42.623020, Pressure: 106049.304688
+01:15.084	ID:1	fd00::218:18:18:18[INFO: Controller] :#19 Temperature: 25.778589, Humidity: 41.337624, Pressure: 106049.468750
+01:15.127	ID:1	fd00::208:8:8:8[INFO: Controller] :#19 Temperature: 26.828583, Humidity: 41.446281, Pressure: 106049.609375
+01:15.236	ID:1	fd00::20b:b:b:b[INFO: Controller] :#19 Temperature: 26.350090, Humidity: 41.024204, Pressure: 106049.179688
+01:15.260	ID:1	fd00::202:2:2:2[INFO: Controller] :#19 Temperature: 26.677063, Humidity: 41.280582, Pressure: 106050.234375
+01:15.292	ID:1	fd00::206:6:6:6[INFO: Controller] :#20 Temperature: 24.570290, Humidity: 41.381241, Pressure: 106048.476562
+01:15.360	ID:1	fd00::212:12:12:12[INFO: Controller] :#19 Temperature: 24.811220, Humidity: 41.753693, Pressure: 106051.625000
+01:15.374	ID:1	fd00::204:4:4:4[INFO: Controller] :#19 Temperature: 27.832087, Humidity: 41.514553, Pressure: 106050.875000
+01:15.453	ID:1	fd00::207:7:7:7[INFO: Controller] :#21 Temperature: 24.662909, Humidity: 43.598972, Pressure: 106048.976562
+01:15.479	ID:1	fd00::20e:e:e:e[INFO: Controller] :#20 Temperature: 25.724705, Humidity: 44.091385, Pressure: 106049.406250
+01:15.493	ID:1	fd00::219:19:19:19[INFO: Controller] :#20 Temperature: 25.051270, Humidity: 44.583935, Pressure: 106049.937500
+01:15.498	ID:1	fd00::210:10:10:10[INFO: Controller] :#19 Temperature: 26.522875, Humidity: 42.866142, Pressure: 106052.554688
+01:15.509	ID:1	fd00::20f:f:f:f[INFO: Controller] :#19 Temperature: 25.560595, Humidity: 40.465736, Pressure: 106050.445312
+01:15.557	ID:1	fd00::214:14:14:14[INFO: Controller] :#20 Temperature: 26.486814, Humidity: 41.930042, Pressure: 106048.617188
+01:15.583	ID:1	fd00::20a:a:a:a[INFO: Controller] :#20 Temperature: 25.252020, Humidity: 40.743690, Pressure: 106050.156250
+01:15.625	ID:1	fd00::20c:c:c:c[INFO: Controller] :#19 Temperature: 26.124809, Humidity: 42.157597, Pressure: 106050.179688
+01:15.690	ID:1	fd00::216:16:16:16[INFO: Controller] :#21 Temperature: 27.163685, Humidity: 40.540260, Pressure: 106050.437500
+01:15.713	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#18 Temperature: 25.312084, Humidity: 43.893803, Pressure: 106052.804688
+01:15.748	ID:1	fd00::209:9:9:9[INFO: Controller] :#20 Temperature: 25.120277, Humidity: 42.017452, Pressure: 106049.351562
+01:15.759	ID:1	fd00::213:13:13:13[INFO: Controller] :#18 Temperature: 24.593506, Humidity: 42.408031, Pressure: 106050.078125
+01:15.814	ID:1	fd00::205:5:5:5[INFO: Controller] :#20 Temperature: 26.647186, Humidity: 43.130802, Pressure: 106050.015625
+01:15.836	ID:1	fd00::211:11:11:11[INFO: Controller] :#21 Temperature: 27.089935, Humidity: 42.609051, Pressure: 106050.109375
+01:15.940	ID:1	fd00::215:15:15:15[INFO: Controller] :#21 Temperature: 25.650478, Humidity: 41.267673, Pressure: 106049.796875
+01:15.959	ID:1	fd00::203:3:3:3[INFO: Controller] :#18 Temperature: 26.039322, Humidity: 43.609024, Pressure: 106050.984375
+01:15.981	ID:1	fd00::20d:d:d:d[INFO: Controller] :#20 Temperature: 25.367563, Humidity: 43.743652, Pressure: 106048.171875
+01:15.989	ID:1	fd00::217:17:17:17[INFO: Controller] :#18 Temperature: 27.386658, Humidity: 42.736687, Pressure: 106051.851562
+01:18.073	ID:1	fd00::218:18:18:18[INFO: Controller] :#20 Temperature: 28.168690, Humidity: 41.328568, Pressure: 106048.437500
+01:18.120	ID:1	fd00::208:8:8:8[INFO: Controller] :#20 Temperature: 25.748770, Humidity: 39.551975, Pressure: 106048.593750
+01:18.215	ID:1	fd00::20b:b:b:b[INFO: Controller] :#20 Temperature: 26.550112, Humidity: 42.474152, Pressure: 106050.960938
+01:18.284	ID:1	fd00::206:6:6:6[INFO: Controller] :#21 Temperature: 27.156889, Humidity: 42.620602, Pressure: 106047.632812
+01:18.292	ID:1	fd00::202:2:2:2[INFO: Controller] :#20 Temperature: 26.211691, Humidity: 42.353878, Pressure: 106048.601562
+01:18.370	ID:1	fd00::212:12:12:12[INFO: Controller] :#20 Temperature: 24.861322, Humidity: 40.651737, Pressure: 106049.359375
+01:18.410	ID:1	fd00::204:4:4:4[INFO: Controller] :#20 Temperature: 26.214252, Humidity: 41.102325, Pressure: 106050.484375
+01:18.447	ID:1	fd00::207:7:7:7[INFO: Controller] :#22 Temperature: 25.351223, Humidity: 43.542835, Pressure: 106048.765625
+01:18.489	ID:1	fd00::20f:f:f:f[INFO: Controller] :#20 Temperature: 26.523207, Humidity: 41.819717, Pressure: 106050.609375
+01:18.508	ID:1	fd00::20e:e:e:e[INFO: Controller] :#21 Temperature: 26.848652, Humidity: 42.597095, Pressure: 106049.968750
+01:18.520	ID:1	fd00::210:10:10:10[INFO: Controller] :#20 Temperature: 26.912888, Humidity: 41.127323, Pressure: 106050.406250
+01:18.526	ID:1	fd00::219:19:19:19[INFO: Controller] :#21 Temperature: 25.739229, Humidity: 41.048393, Pressure: 106049.625000
+01:18.612	ID:1	fd00::20a:a:a:a[INFO: Controller] :#21 Temperature: 24.680559, Humidity: 39.901348, Pressure: 106051.343750
+01:18.642	ID:1	fd00::20c:c:c:c[INFO: Controller] :#20 Temperature: 26.546183, Humidity: 41.017555, Pressure: 106050.609375
+01:18.702	ID:1	fd00::214:14:14:14[INFO: Controller] :#21 Temperature: 26.143606, Humidity: 42.519211, Pressure: 106048.117188
+01:18.705	ID:1	fd00::216:16:16:16[INFO: Controller] :#22 Temperature: 25.625788, Humidity: 41.698257, Pressure: 106048.656250
+01:18.713	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#19 Temperature: 26.934032, Humidity: 41.855972, Pressure: 106050.390625
+01:18.783	ID:1	fd00::205:5:5:5[INFO: Controller] :#21 Temperature: 26.209047, Humidity: 39.125343, Pressure: 106050.750000
+01:18.802	ID:1	fd00::213:13:13:13[INFO: Controller] :#19 Temperature: 27.231775, Humidity: 43.996258, Pressure: 106050.703125
+01:18.807	ID:1	fd00::209:9:9:9[INFO: Controller] :#21 Temperature: 25.725677, Humidity: 41.751057, Pressure: 106050.640625
+01:18.876	ID:1	fd00::211:11:11:11[INFO: Controller] :#22 Temperature: 26.192114, Humidity: 42.987453, Pressure: 106048.882812
+01:18.933	ID:1	fd00::20d:d:d:d[INFO: Controller] :#21 Temperature: 27.153183, Humidity: 43.959007, Pressure: 106050.039062
+01:18.952	ID:1	fd00::203:3:3:3[INFO: Controller] :#19 Temperature: 26.475451, Humidity: 42.449680, Pressure: 106049.203125
+01:18.982	ID:1	fd00::215:15:15:15[INFO: Controller] :#22 Temperature: 26.672932, Humidity: 42.858402, Pressure: 106050.710938
+01:19.005	ID:1	fd00::217:17:17:17[INFO: Controller] :#19 Temperature: 25.210732, Humidity: 40.882347, Pressure: 106048.945312
+01:21.101	ID:1	fd00::218:18:18:18[INFO: Controller] :#21 Temperature: 26.111578, Humidity: 42.856842, Pressure: 106050.601562
+01:21.106	ID:1	fd00::208:8:8:8[INFO: Controller] :#21 Temperature: 27.746202, Humidity: 40.944157, Pressure: 106049.968750
+01:21.224	ID:1	fd00::20b:b:b:b[INFO: Controller] :#21 Temperature: 25.745176, Humidity: 42.916779, Pressure: 106051.296875
+01:21.286	ID:1	fd00::202:2:2:2[INFO: Controller] :#21 Temperature: 23.920444, Humidity: 41.676353, Pressure: 106049.210938
+01:21.295	ID:1	fd00::206:6:6:6[INFO: Controller] :#22 Temperature: 27.241827, Humidity: 40.713989, Pressure: 106049.992188
+01:21.362	ID:1	fd00::212:12:12:12[INFO: Controller] :#21 Temperature: 26.874796, Humidity: 40.316742, Pressure: 106048.179688
+01:21.404	ID:1	fd00::204:4:4:4[INFO: Controller] :#21 Temperature: 25.101433, Humidity: 43.235149, Pressure: 106049.640625
+01:21.444	ID:1	fd00::207:7:7:7[INFO: Controller] :#23 Temperature: 25.594788, Humidity: 39.532452, Pressure: 106048.484375
+01:21.489	ID:1	fd00::20f:f:f:f[INFO: Controller] :#21 Temperature: 26.538239, Humidity: 40.592640, Pressure: 106048.960938
+01:21.496	ID:1	fd00::219:19:19:19[INFO: Controller] :#22 Temperature: 27.297285, Humidity: 40.766842, Pressure: 106049.937500
+01:21.499	ID:1	fd00::20e:e:e:e[INFO: Controller] :#22 Temperature: 26.052303, Humidity: 42.347466, Pressure: 106050.500000
+01:21.519	ID:1	fd00::214:14:14:14[INFO: Controller] :#22 Temperature: 27.434771, Humidity: 43.160503, Pressure: 106051.640625
+01:21.533	ID:1	fd00::210:10:10:10[INFO: Controller] :#21 Temperature: 28.215969, Humidity: 40.473820, Pressure: 106050.375000
+01:21.607	ID:1	fd00::20a:a:a:a[INFO: Controller] :#22 Temperature: 24.741583, Humidity: 40.496338, Pressure: 106050.140625
+01:21.644	ID:1	fd00::20c:c:c:c[INFO: Controller] :#21 Temperature: 26.225571, Humidity: 43.677700, Pressure: 106051.445312
+01:21.712	ID:1	fd00::216:16:16:16[INFO: Controller] :#23 Temperature: 25.422329, Humidity: 39.159332, Pressure: 106048.390625
+01:21.754	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#20 Temperature: 24.537338, Humidity: 41.052261, Pressure: 106048.281250
+01:21.757	ID:1	fd00::213:13:13:13[INFO: Controller] :#20 Temperature: 26.889177, Humidity: 42.912144, Pressure: 106049.007812
+01:21.763	ID:1	fd00::205:5:5:5[INFO: Controller] :#22 Temperature: 26.846516, Humidity: 43.173649, Pressure: 106049.328125
+01:21.816	ID:1	fd00::209:9:9:9[INFO: Controller] :#22 Temperature: 27.548685, Humidity: 43.611000, Pressure: 106049.375000
+01:21.868	ID:1	fd00::211:11:11:11[INFO: Controller] :#23 Temperature: 26.081390, Humidity: 40.681461, Pressure: 106051.390625
+01:21.919	ID:1	fd00::20d:d:d:d[INFO: Controller] :#22 Temperature: 24.533855, Humidity: 42.061157, Pressure: 106049.664062
+01:21.929	ID:1	fd00::203:3:3:3[INFO: Controller] :#20 Temperature: 26.268442, Humidity: 41.368168, Pressure: 106049.859375
+01:21.953	ID:1	fd00::215:15:15:15[INFO: Controller] :#23 Temperature: 25.479992, Humidity: 42.259331, Pressure: 106051.359375
+01:21.969	ID:1	fd00::217:17:17:17[INFO: Controller] :#20 Temperature: 26.390844, Humidity: 41.600365, Pressure: 106050.656250
+01:24.078	ID:1	fd00::218:18:18:18[INFO: Controller] :#22 Temperature: 25.047983, Humidity: 41.442707, Pressure: 106048.593750
+01:24.112	ID:1	fd00::208:8:8:8[INFO: Controller] :#22 Temperature: 25.827545, Humidity: 40.594349, Pressure: 106049.875000
+01:24.225	ID:1	fd00::20b:b:b:b[INFO: Controller] :#22 Temperature: 25.708643, Humidity: 41.880077, Pressure: 106048.859375
+01:24.294	ID:1	fd00::202:2:2:2[INFO: Controller] :#22 Temperature: 26.258970, Humidity: 41.383881, Pressure: 106049.679688
+01:24.302	ID:1	fd00::206:6:6:6[INFO: Controller] :#23 Temperature: 26.154566, Humidity: 41.942219, Pressure: 106050.382812
+01:24.357	ID:1	fd00::212:12:12:12[INFO: Controller] :#22 Temperature: 25.255653, Humidity: 41.830666, Pressure: 106049.812500
+01:24.382	ID:1	fd00::204:4:4:4[INFO: Controller] :#22 Temperature: 26.741707, Humidity: 40.734188, Pressure: 106049.992188
+01:24.455	ID:1	fd00::207:7:7:7[INFO: Controller] :#24 Temperature: 25.515808, Humidity: 41.830116, Pressure: 106050.968750
+01:24.485	ID:1	fd00::20e:e:e:e[INFO: Controller] :#23 Temperature: 25.171833, Humidity: 41.532631, Pressure: 106050.664062
+01:24.495	ID:1	fd00::210:10:10:10[INFO: Controller] :#22 Temperature: 26.040955, Humidity: 41.944450, Pressure: 106050.539062
+01:24.505	ID:1	fd00::20f:f:f:f[INFO: Controller] :#22 Temperature: 25.785814, Humidity: 42.527878, Pressure: 106050.929688
+01:24.510	ID:1	fd00::214:14:14:14[INFO: Controller] :#23 Temperature: 25.908062, Humidity: 43.832478, Pressure: 106051.062500
+01:24.521	ID:1	fd00::219:19:19:19[INFO: Controller] :#23 Temperature: 26.841099, Humidity: 41.593857, Pressure: 106050.234375
+01:24.612	ID:1	fd00::20a:a:a:a[INFO: Controller] :#23 Temperature: 24.960354, Humidity: 42.295158, Pressure: 106048.453125
+01:24.630	ID:1	fd00::20c:c:c:c[INFO: Controller] :#22 Temperature: 25.396881, Humidity: 40.516113, Pressure: 106051.398438
+01:24.727	ID:1	fd00::216:16:16:16[INFO: Controller] :#24 Temperature: 24.337479, Humidity: 42.083168, Pressure: 106048.828125
+01:24.757	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#21 Temperature: 28.208202, Humidity: 42.657642, Pressure: 106048.445312
+01:24.782	ID:1	fd00::213:13:13:13[INFO: Controller] :#21 Temperature: 26.458786, Humidity: 42.675747, Pressure: 106049.429688
+01:24.791	ID:1	fd00::205:5:5:5[INFO: Controller] :#23 Temperature: 26.493080, Humidity: 43.999886, Pressure: 106050.210938
+01:24.798	ID:1	fd00::209:9:9:9[INFO: Controller] :#23 Temperature: 26.151184, Humidity: 43.434628, Pressure: 106048.796875
+01:24.850	ID:1	fd00::211:11:11:11[INFO: Controller] :#24 Temperature: 26.883633, Humidity: 43.746502, Pressure: 106050.632812
+01:24.938	ID:1	fd00::20d:d:d:d[INFO: Controller] :#23 Temperature: 26.247288, Humidity: 42.244122, Pressure: 106049.632812
+01:24.941	ID:1	fd00::203:3:3:3[INFO: Controller] :#21 Temperature: 26.073381, Humidity: 41.292713, Pressure: 106048.929688
+01:24.971	ID:1	fd00::217:17:17:17[INFO: Controller] :#21 Temperature: 26.556541, Humidity: 42.728844, Pressure: 106051.382812
+01:24.977	ID:1	fd00::215:15:15:15[INFO: Controller] :#24 Temperature: 24.663296, Humidity: 41.186806, Pressure: 106048.203125
+01:27.093	ID:1	fd00::218:18:18:18[INFO: Controller] :#23 Temperature: 24.698359, Humidity: 43.783855, Pressure: 106049.796875
+01:27.100	ID:1	fd00::208:8:8:8[INFO: Controller] :#23 Temperature: 26.472397, Humidity: 41.364750, Pressure: 106049.953125
+01:27.227	ID:1	fd00::20b:b:b:b[INFO: Controller] :#23 Temperature: 25.404903, Humidity: 42.519573, Pressure: 106048.882812
+01:27.280	ID:1	fd00::206:6:6:6[INFO: Controller] :#24 Temperature: 26.446892, Humidity: 42.153252, Pressure: 106051.351562
+01:27.283	ID:1	fd00::202:2:2:2[INFO: Controller] :#23 Temperature: 25.987446, Humidity: 44.045513, Pressure: 106049.734375
+01:27.372	ID:1	fd00::212:12:12:12[INFO: Controller] :#23 Temperature: 28.079575, Humidity: 42.029995, Pressure: 106049.070312
+01:27.380	ID:1	fd00::204:4:4:4[INFO: Controller] :#23 Temperature: 25.184761, Humidity: 41.956020, Pressure: 106049.914062
+01:27.468	ID:1	fd00::207:7:7:7[INFO: Controller] :#25 Temperature: 25.578091, Humidity: 41.421207, Pressure: 106050.781250
+01:27.479	ID:1	fd00::20e:e:e:e[INFO: Controller] :#24 Temperature: 28.115219, Humidity: 40.553097, Pressure: 106050.132812
+01:27.518	ID:1	fd00::214:14:14:14[INFO: Controller] :#24 Temperature: 28.314827, Humidity: 42.649158, Pressure: 106049.179688
+01:27.524	ID:1	fd00::210:10:10:10[INFO: Controller] :#23 Temperature: 27.659290, Humidity: 42.964043, Pressure: 106048.875000
+01:27.532	ID:1	fd00::219:19:19:19[INFO: Controller] :#24 Temperature: 24.772163, Humidity: 41.322403, Pressure: 106048.968750
+01:27.574	ID:1	fd00::20f:f:f:f[INFO: Controller] :#23 Temperature: 26.759186, Humidity: 40.971096, Pressure: 106049.750000
+01:27.597	ID:1	fd00::20a:a:a:a[INFO: Controller] :#24 Temperature: 25.069700, Humidity: 42.429878, Pressure: 106049.718750
+01:27.660	ID:1	fd00::20c:c:c:c[INFO: Controller] :#23 Temperature: 27.056267, Humidity: 42.779972, Pressure: 106050.335938
+01:27.698	ID:1	fd00::216:16:16:16[INFO: Controller] :#25 Temperature: 26.662565, Humidity: 40.919338, Pressure: 106050.000000
+01:27.716	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#22 Temperature: 26.474281, Humidity: 42.420773, Pressure: 106050.351562
+01:27.735	ID:1	fd00::209:9:9:9[INFO: Controller] :#24 Temperature: 25.811920, Humidity: 40.987865, Pressure: 106049.226562
+01:27.741	ID:1	fd00::205:5:5:5[INFO: Controller] :#24 Temperature: 25.299707, Humidity: 43.254280, Pressure: 106049.609375
+01:27.752	ID:1	fd00::213:13:13:13[INFO: Controller] :#22 Temperature: 25.837925, Humidity: 42.680931, Pressure: 106049.734375
+01:27.877	ID:1	fd00::211:11:11:11[INFO: Controller] :#25 Temperature: 28.161203, Humidity: 42.722870, Pressure: 106049.343750
+01:27.937	ID:1	fd00::20d:d:d:d[INFO: Controller] :#24 Temperature: 27.437361, Humidity: 41.122852, Pressure: 106049.843750
+01:27.945	ID:1	fd00::215:15:15:15[INFO: Controller] :#25 Temperature: 25.199810, Humidity: 42.479641, Pressure: 106049.742188
+01:27.973	ID:1	fd00::203:3:3:3[INFO: Controller] :#22 Temperature: 27.877087, Humidity: 41.015705, Pressure: 106050.195312
+01:27.995	ID:1	fd00::217:17:17:17[INFO: Controller] :#22 Temperature: 26.811516, Humidity: 41.006332, Pressure: 106049.906250
+01:30.090	ID:1	fd00::218:18:18:18[INFO: Controller] :#24 Temperature: 24.589752, Humidity: 41.008724, Pressure: 106050.406250
+01:30.125	ID:1	fd00::208:8:8:8[INFO: Controller] :#24 Temperature: 26.849771, Humidity: 41.620022, Pressure: 106049.687500
+01:30.243	ID:1	fd00::20b:b:b:b[INFO: Controller] :#24 Temperature: 26.879080, Humidity: 42.782894, Pressure: 106050.132812
+01:30.278	ID:1	fd00::202:2:2:2[INFO: Controller] :#24 Temperature: 26.970520, Humidity: 43.018410, Pressure: 106049.398438
+01:30.302	ID:1	fd00::206:6:6:6[INFO: Controller] :#25 Temperature: 26.785297, Humidity: 42.711544, Pressure: 106046.882812
+01:30.383	ID:1	fd00::212:12:12:12[INFO: Controller] :#24 Temperature: 26.881096, Humidity: 41.418880, Pressure: 106049.945312
+01:30.410	ID:1	fd00::204:4:4:4[INFO: Controller] :#24 Temperature: 26.019161, Humidity: 42.055271, Pressure: 106049.257812
+01:30.442	ID:1	fd00::207:7:7:7[INFO: Controller] :#26 Temperature: 27.216898, Humidity: 41.203552, Pressure: 106049.578125
+01:30.504	ID:1	fd00::20e:e:e:e[INFO: Controller] :#25 Temperature: 26.057512, Humidity: 41.256107, Pressure: 106051.093750
+01:30.516	ID:1	fd00::210:10:10:10[INFO: Controller] :#24 Temperature: 26.695168, Humidity: 42.203770, Pressure: 106049.679688
+01:30.526	ID:1	fd00::219:19:19:19[INFO: Controller] :#25 Temperature: 24.963610, Humidity: 41.217266, Pressure: 106050.968750
+01:30.562	ID:1	fd00::214:14:14:14[INFO: Controller] :#25 Temperature: 25.186846, Humidity: 41.227013, Pressure: 106051.351562
+01:30.594	ID:1	fd00::20a:a:a:a[INFO: Controller] :#25 Temperature: 25.868446, Humidity: 40.705547, Pressure: 106050.773438
+01:30.613	ID:1	fd00::20f:f:f:f[INFO: Controller] :#24 Temperature: 25.748755, Humidity: 44.005367, Pressure: 106050.671875
+01:30.661	ID:1	fd00::20c:c:c:c[INFO: Controller] :#24 Temperature: 26.101698, Humidity: 42.206467, Pressure: 106049.914062
+01:30.730	ID:1	fd00::216:16:16:16[INFO: Controller] :#26 Temperature: 26.198502, Humidity: 42.688343, Pressure: 106047.828125
+01:30.742	ID:1	fd00::213:13:13:13[INFO: Controller] :#23 Temperature: 27.453716, Humidity: 42.603291, Pressure: 106048.640625
+01:30.764	ID:1	fd00::209:9:9:9[INFO: Controller] :#25 Temperature: 26.147736, Humidity: 41.552593, Pressure: 106048.007812
+01:30.770	ID:1	fd00::205:5:5:5[INFO: Controller] :#25 Temperature: 25.124096, Humidity: 41.118938, Pressure: 106048.640625
+01:30.896	ID:1	fd00::211:11:11:11[INFO: Controller] :#26 Temperature: 27.387650, Humidity: 41.031059, Pressure: 106050.531250
+01:30.902	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#23 Temperature: 25.484060, Humidity: 43.191059, Pressure: 106049.734375
+01:30.918	ID:1	fd00::20d:d:d:d[INFO: Controller] :#25 Temperature: 24.839506, Humidity: 43.964302, Pressure: 106049.476562
+01:30.942	ID:1	fd00::203:3:3:3[INFO: Controller] :#23 Temperature: 26.697840, Humidity: 43.137188, Pressure: 106050.000000
+01:30.949	ID:1	fd00::215:15:15:15[INFO: Controller] :#26 Temperature: 25.966879, Humidity: 43.277653, Pressure: 106048.007812
+01:31.010	ID:1	fd00::217:17:17:17[INFO: Controller] :#23 Temperature: 25.839874, Humidity: 40.973602, Pressure: 106050.500000
+01:33.087	ID:1	fd00::218:18:18:18[INFO: Controller] :#25 Temperature: 26.018015, Humidity: 41.479912, Pressure: 106050.804688
+01:33.141	ID:1	fd00::208:8:8:8[INFO: Controller] :#25 Temperature: 26.057760, Humidity: 40.832493, Pressure: 106049.562500
+01:33.234	ID:1	fd00::20b:b:b:b[INFO: Controller] :#25 Temperature: 26.663809, Humidity: 43.091068, Pressure: 106049.765625
+01:33.282	ID:1	fd00::202:2:2:2[INFO: Controller] :#25 Temperature: 26.303278, Humidity: 41.693428, Pressure: 106049.515625
+01:33.312	ID:1	fd00::206:6:6:6[INFO: Controller] :#26 Temperature: 25.850504, Humidity: 43.946476, Pressure: 106048.593750
+01:33.357	ID:1	fd00::212:12:12:12[INFO: Controller] :#25 Temperature: 26.963505, Humidity: 39.826492, Pressure: 106049.375000
+01:33.410	ID:1	fd00::204:4:4:4[INFO: Controller] :#25 Temperature: 26.649376, Humidity: 41.960930, Pressure: 106050.015625
+01:33.469	ID:1	fd00::207:7:7:7[INFO: Controller] :#27 Temperature: 26.845522, Humidity: 41.775307, Pressure: 106050.773438
+01:33.496	ID:1	fd00::214:14:14:14[INFO: Controller] :#26 Temperature: 26.043304, Humidity: 41.449757, Pressure: 106050.125000
+01:33.508	ID:1	fd00::20f:f:f:f[INFO: Controller] :#25 Temperature: 25.152788, Humidity: 43.339321, Pressure: 106050.234375
+01:33.515	ID:1	fd00::20e:e:e:e[INFO: Controller] :#26 Temperature: 25.963230, Humidity: 41.913601, Pressure: 106049.953125
+01:33.520	ID:1	fd00::219:19:19:19[INFO: Controller] :#26 Temperature: 27.648928, Humidity: 41.861511, Pressure: 106050.609375
+01:33.547	ID:1	fd00::210:10:10:10[INFO: Controller] :#25 Temperature: 27.201162, Humidity: 42.929699, Pressure: 106049.226562
+01:33.610	ID:1	fd00::20a:a:a:a[INFO: Controller] :#26 Temperature: 26.685925, Humidity: 42.916084, Pressure: 106049.695312
+01:33.629	ID:1	fd00::20c:c:c:c[INFO: Controller] :#25 Temperature: 27.820761, Humidity: 40.162289, Pressure: 106050.335938
+01:33.720	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#24 Temperature: 26.277828, Humidity: 43.633900, Pressure: 106049.953125
+01:33.749	ID:1	fd00::209:9:9:9[INFO: Controller] :#26 Temperature: 26.752193, Humidity: 40.564919, Pressure: 106048.007812
+01:33.766	ID:1	fd00::205:5:5:5[INFO: Controller] :#26 Temperature: 27.362547, Humidity: 42.340023, Pressure: 106049.484375
+01:33.775	ID:1	fd00::213:13:13:13[INFO: Controller] :#24 Temperature: 26.554770, Humidity: 41.855328, Pressure: 106049.828125
+01:33.806	ID:1	fd00::216:16:16:16[INFO: Controller] :#27 Temperature: 26.407959, Humidity: 43.417194, Pressure: 106049.937500
+01:33.858	ID:1	fd00::211:11:11:11[INFO: Controller] :#27 Temperature: 27.232311, Humidity: 42.888439, Pressure: 106047.546875
+01:33.924	ID:1	fd00::20d:d:d:d[INFO: Controller] :#26 Temperature: 26.924578, Humidity: 41.767410, Pressure: 106049.679688
+01:33.938	ID:1	fd00::203:3:3:3[INFO: Controller] :#24 Temperature: 27.108938, Humidity: 43.898666, Pressure: 106052.414062
+01:33.943	ID:1	fd00::215:15:15:15[INFO: Controller] :#27 Temperature: 26.743336, Humidity: 41.717381, Pressure: 106050.164062
+01:33.999	ID:1	fd00::217:17:17:17[INFO: Controller] :#24 Temperature: 25.296299, Humidity: 41.588524, Pressure: 106047.328125
+01:36.069	ID:1	fd00::218:18:18:18[INFO: Controller] :#26 Temperature: 24.856327, Humidity: 39.326569, Pressure: 106049.218750
+01:36.129	ID:1	fd00::208:8:8:8[INFO: Controller] :#26 Temperature: 25.436272, Humidity: 41.633820, Pressure: 106049.234375
+01:36.234	ID:1	fd00::20b:b:b:b[INFO: Controller] :#26 Temperature: 25.158754, Humidity: 43.172867, Pressure: 106049.585938
+01:36.289	ID:1	fd00::206:6:6:6[INFO: Controller] :#27 Temperature: 26.578331, Humidity: 42.925858, Pressure: 106050.718750
+01:36.305	ID:1	fd00::202:2:2:2[INFO: Controller] :#26 Temperature: 25.841877, Humidity: 42.952389, Pressure: 106049.531250
+01:36.382	ID:1	fd00::212:12:12:12[INFO: Controller] :#26 Temperature: 26.919241, Humidity: 41.507122, Pressure: 106050.976562
+01:36.403	ID:1	fd00::204:4:4:4[INFO: Controller] :#26 Temperature: 25.860481, Humidity: 42.952930, Pressure: 106051.078125
+01:36.443	ID:1	fd00::207:7:7:7[INFO: Controller] :#28 Temperature: 24.817333, Humidity: 43.149723, Pressure: 106050.570312
+01:36.498	ID:1	fd00::20e:e:e:e[INFO: Controller] :#27 Temperature: 26.115908, Humidity: 42.894028, Pressure: 106048.312500
+01:36.518	ID:1	fd00::20f:f:f:f[INFO: Controller] :#26 Temperature: 24.645924, Humidity: 43.108269, Pressure: 106047.296875
+01:36.521	ID:1	fd00::210:10:10:10[INFO: Controller] :#26 Temperature: 25.549788, Humidity: 41.582600, Pressure: 106049.171875
+01:36.536	ID:1	fd00::219:19:19:19[INFO: Controller] :#27 Temperature: 27.103596, Humidity: 40.965847, Pressure: 106049.546875
+01:36.592	ID:1	fd00::214:14:14:14[INFO: Controller] :#27 Temperature: 25.209732, Humidity: 42.966564, Pressure: 106051.453125
+01:36.618	ID:1	fd00::20a:a:a:a[INFO: Controller] :#27 Temperature: 25.332142, Humidity: 42.646473, Pressure: 106048.718750
+01:36.658	ID:1	fd00::20c:c:c:c[INFO: Controller] :#26 Temperature: 25.356127, Humidity: 44.366398, Pressure: 106051.335938
+01:36.704	ID:1	fd00::216:16:16:16[INFO: Controller] :#28 Temperature: 27.613308, Humidity: 41.573982, Pressure: 106049.109375
+01:36.751	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#25 Temperature: 26.360817, Humidity: 41.341484, Pressure: 106052.429688
+01:36.763	ID:1	fd00::209:9:9:9[INFO: Controller] :#27 Temperature: 26.322180, Humidity: 42.134010, Pressure: 106048.078125
+01:36.778	ID:1	fd00::205:5:5:5[INFO: Controller] :#27 Temperature: 26.028358, Humidity: 42.746017, Pressure: 106050.257812
+01:36.781	ID:1	fd00::213:13:13:13[INFO: Controller] :#25 Temperature: 26.279522, Humidity: 40.994099, Pressure: 106050.492188
+01:36.872	ID:1	fd00::211:11:11:11[INFO: Controller] :#28 Temperature: 28.443928, Humidity: 43.136673, Pressure: 106049.078125
+01:36.925	ID:1	fd00::20d:d:d:d[INFO: Controller] :#27 Temperature: 27.720995, Humidity: 42.034073, Pressure: 106048.531250
+01:36.932	ID:1	fd00::203:3:3:3[INFO: Controller] :#25 Temperature: 27.140663, Humidity: 42.199905, Pressure: 106048.945312
+01:36.942	ID:1	fd00::215:15:15:15[INFO: Controller] :#28 Temperature: 25.814812, Humidity: 42.435768, Pressure: 106050.148438
+01:37.001	ID:1	fd00::217:17:17:17[INFO: Controller] :#25 Temperature: 25.445980, Humidity: 40.828468, Pressure: 106051.296875
+01:39.082	ID:1	fd00::218:18:18:18[INFO: Controller] :#27 Temperature: 26.407566, Humidity: 40.233746, Pressure: 106050.218750
+01:39.111	ID:1	fd00::208:8:8:8[INFO: Controller] :#27 Temperature: 25.159864, Humidity: 40.294308, Pressure: 106049.648438
+01:39.261	ID:1	fd00::20b:b:b:b[INFO: Controller] :#27 Temperature: 26.853559, Humidity: 41.392868, Pressure: 106049.562500
+01:39.301	ID:1	fd00::202:2:2:2[INFO: Controller] :#27 Temperature: 25.903093, Humidity: 41.869358, Pressure: 106049.320312
+01:39.314	ID:1	fd00::206:6:6:6[INFO: Controller] :#28 Temperature: 26.300161, Humidity: 41.961277, Pressure: 106048.718750
+01:39.369	ID:1	fd00::212:12:12:12[INFO: Controller] :#27 Temperature: 25.406336, Humidity: 42.142166, Pressure: 106050.140625
+01:39.405	ID:1	fd00::204:4:4:4[INFO: Controller] :#27 Temperature: 25.389950, Humidity: 41.108841, Pressure: 106050.953125
+01:39.440	ID:1	fd00::207:7:7:7[INFO: Controller] :#29 Temperature: 27.367878, Humidity: 40.277554, Pressure: 106048.906250
+01:39.497	ID:1	fd00::20e:e:e:e[INFO: Controller] :#28 Temperature: 24.680452, Humidity: 39.518940, Pressure: 106050.710938
+01:39.511	ID:1	fd00::214:14:14:14[INFO: Controller] :#28 Temperature: 27.329033, Humidity: 42.812950, Pressure: 106050.382812
+01:39.522	ID:1	fd00::20f:f:f:f[INFO: Controller] :#27 Temperature: 25.893787, Humidity: 42.876995, Pressure: 106049.437500
+01:39.525	ID:1	fd00::219:19:19:19[INFO: Controller] :#28 Temperature: 28.059484, Humidity: 40.091343, Pressure: 106048.695312
+01:39.535	ID:1	fd00::210:10:10:10[INFO: Controller] :#27 Temperature: 26.517179, Humidity: 43.467720, Pressure: 106050.414062
+01:39.606	ID:1	fd00::20a:a:a:a[INFO: Controller] :#28 Temperature: 25.742296, Humidity: 42.399998, Pressure: 106050.164062
+01:39.647	ID:1	fd00::20c:c:c:c[INFO: Controller] :#27 Temperature: 26.915659, Humidity: 42.579624, Pressure: 106050.125000
+01:39.710	ID:1	fd00::216:16:16:16[INFO: Controller] :#29 Temperature: 27.744518, Humidity: 41.278309, Pressure: 106049.898438
+01:39.729	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#26 Temperature: 26.248306, Humidity: 43.217106, Pressure: 106049.921875
+01:39.752	ID:1	fd00::213:13:13:13[INFO: Controller] :#26 Temperature: 27.181782, Humidity: 43.545582, Pressure: 106050.351562
+01:39.775	ID:1	fd00::209:9:9:9[INFO: Controller] :#28 Temperature: 27.752014, Humidity: 42.175877, Pressure: 106049.421875
+01:39.799	ID:1	fd00::205:5:5:5[INFO: Controller] :#28 Temperature: 24.520193, Humidity: 42.440529, Pressure: 106049.867188
+01:39.847	ID:1	fd00::211:11:11:11[INFO: Controller] :#29 Temperature: 26.649214, Humidity: 41.322372, Pressure: 106048.609375
+01:39.939	ID:1	fd00::203:3:3:3[INFO: Controller] :#26 Temperature: 25.719799, Humidity: 44.356281, Pressure: 106048.804688
+01:39.958	ID:1	fd00::215:15:15:15[INFO: Controller] :#29 Temperature: 25.381861, Humidity: 43.282780, Pressure: 106048.132812
+01:39.961	ID:1	fd00::20d:d:d:d[INFO: Controller] :#28 Temperature: 26.174160, Humidity: 42.131134, Pressure: 106050.421875
+01:40.007	ID:1	fd00::217:17:17:17[INFO: Controller] :#26 Temperature: 26.454584, Humidity: 42.349960, Pressure: 106049.218750
+01:42.068	ID:1	fd00::218:18:18:18[INFO: Controller] :#28 Temperature: 27.479250, Humidity: 42.439903, Pressure: 106048.828125
+01:42.124	ID:1	fd00::208:8:8:8[INFO: Controller] :#28 Temperature: 27.650896, Humidity: 42.375168, Pressure: 106050.273438
+01:42.223	ID:1	fd00::20b:b:b:b[INFO: Controller] :#28 Temperature: 26.313736, Humidity: 41.143902, Pressure: 106048.867188
+01:42.297	ID:1	fd00::206:6:6:6[INFO: Controller] :#29 Temperature: 25.981325, Humidity: 42.665165, Pressure: 106050.210938
+01:42.330	ID:1	fd00::202:2:2:2[INFO: Controller] :#28 Temperature: 27.412880, Humidity: 40.761375, Pressure: 106049.671875
+01:42.393	ID:1	fd00::212:12:12:12[INFO: Controller] :#28 Temperature: 24.800819, Humidity: 42.022682, Pressure: 106049.164062
+01:42.407	ID:1	fd00::204:4:4:4[INFO: Controller] :#28 Temperature: 27.261501, Humidity: 40.859669, Pressure: 106049.343750
+01:42.495	ID:1	fd00::20f:f:f:f[INFO: Controller] :#28 Temperature: 23.948975, Humidity: 42.505562, Pressure: 106048.726562
+01:42.508	ID:1	fd00::20e:e:e:e[INFO: Controller] :#29 Temperature: 26.715839, Humidity: 41.772545, Pressure: 106049.515625
+01:42.515	ID:1	fd00::219:19:19:19[INFO: Controller] :#29 Temperature: 26.636820, Humidity: 42.259624, Pressure: 106051.218750
+01:42.518	ID:1	fd00::210:10:10:10[INFO: Controller] :#28 Temperature: 27.545715, Humidity: 40.990749, Pressure: 106050.562500
+01:42.529	ID:1	fd00::214:14:14:14[INFO: Controller] :#29 Temperature: 26.471441, Humidity: 41.483192, Pressure: 106051.187500
+01:42.619	ID:1	fd00::20a:a:a:a[INFO: Controller] :#29 Temperature: 26.466009, Humidity: 42.631977, Pressure: 106050.273438
+01:42.650	ID:1	fd00::20c:c:c:c[INFO: Controller] :#28 Temperature: 27.181067, Humidity: 45.272881, Pressure: 106050.742188
+01:42.751	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#27 Temperature: 26.676260, Humidity: 41.466637, Pressure: 106050.046875
+01:42.764	ID:1	fd00::213:13:13:13[INFO: Controller] :#27 Temperature: 24.976625, Humidity: 42.614559, Pressure: 106050.156250
+01:42.779	ID:1	fd00::205:5:5:5[INFO: Controller] :#29 Temperature: 26.932388, Humidity: 42.591694, Pressure: 106050.664062
+01:42.804	ID:1	fd00::209:9:9:9[INFO: Controller] :#29 Temperature: 27.539661, Humidity: 42.725914, Pressure: 106050.179688
+01:42.926	ID:1	fd00::20d:d:d:d[INFO: Controller] :#29 Temperature: 26.187403, Humidity: 41.341610, Pressure: 106049.632812
+01:42.929	ID:1	fd00::203:3:3:3[INFO: Controller] :#27 Temperature: 25.039389, Humidity: 42.371952, Pressure: 106048.531250
+01:42.999	ID:1	fd00::217:17:17:17[INFO: Controller] :#27 Temperature: 25.375916, Humidity: 41.906891, Pressure: 106050.445312
+01:45.104	ID:1	fd00::218:18:18:18[INFO: Controller] :#29 Temperature: 26.552116, Humidity: 40.843536, Pressure: 106050.195312
+01:45.120	ID:1	fd00::208:8:8:8[INFO: Controller] :#29 Temperature: 27.482140, Humidity: 40.797520, Pressure: 106049.664062
+01:45.226	ID:1	fd00::20b:b:b:b[INFO: Controller] :#29 Temperature: 27.263973, Humidity: 40.626568, Pressure: 106049.789062
+01:45.309	ID:1	fd00::202:2:2:2[INFO: Controller] :#29 Temperature: 26.508633, Humidity: 38.781601, Pressure: 106047.851562
+01:45.367	ID:1	fd00::212:12:12:12[INFO: Controller] :#29 Temperature: 25.162327, Humidity: 41.008972, Pressure: 106051.804688
+01:45.410	ID:1	fd00::204:4:4:4[INFO: Controller] :#29 Temperature: 24.347887, Humidity: 42.727676, Pressure: 106049.679688
+01:45.511	ID:1	fd00::20f:f:f:f[INFO: Controller] :#29 Temperature: 27.975569, Humidity: 42.022598, Pressure: 106049.601562
+01:45.522	ID:1	fd00::210:10:10:10[INFO: Controller] :#29 Temperature: 25.709801, Humidity: 42.533062, Pressure: 106048.890625
+01:45.641	ID:1	fd00::20c:c:c:c[INFO: Controller] :#29 Temperature: 26.159563, Humidity: 43.339981, Pressure: 106049.968750
+01:45.733	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#28 Temperature: 26.122177, Humidity: 41.566299, Pressure: 106048.898438
+01:45.756	ID:1	fd00::213:13:13:13[INFO: Controller] :#28 Temperature: 25.580313, Humidity: 42.283527, Pressure: 106048.968750
+01:45.948	ID:1	fd00::203:3:3:3[INFO: Controller] :#28 Temperature: 26.190722, Humidity: 41.443272, Pressure: 106048.515625
+01:45.999	ID:1	fd00::217:17:17:17[INFO: Controller] :#28 Temperature: 25.552582, Humidity: 41.810280, Pressure: 106050.500000
+01:48.733	ID:1	fd00::21a:1a:1a:1a[INFO: Controller] :#29 Temperature: 24.836678, Humidity: 42.398537, Pressure: 106049.640625
+01:48.766	ID:1	fd00::213:13:13:13[INFO: Controller] :#29 Temperature: 25.812273, Humidity: 42.392925, Pressure: 106048.109375
+01:48.969	ID:1	fd00::203:3:3:3[INFO: Controller] :#29 Temperature: 24.411900, Humidity: 42.496532, Pressure: 106051.421875
+01:49.013	ID:1	fd00::217:17:17:17[INFO: Controller] :#29 Temperature: 24.512344, Humidity: 41.437973, Pressure: 106051.007812
