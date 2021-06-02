@@ -18,7 +18,6 @@ AUTOSTART_PROCESSES(&controller_process);
 //----------------------------------------------------------------
 // For each incoming datagram, the function above will be called with
 // parameters that provide source/destination addresses and ports, and the
-
 static void
 udp_rx_callback(struct simple_udp_connection *c,
 const uip_ipaddr_t *sender_addr,
@@ -34,9 +33,7 @@ uint16_t datalen)
 // LOG_INFO("\n");
 // Transfer "data" to "Sensor" class
 struct Sensor sensor = *(struct Sensor*) data;
-LOG_INFO_6ADDR(sender_addr);
-
-LOG_INFO(":#%u Temperature: %f, Humidity: %f, Pressure: %f\n", sensor.count,
+LOG_INFO("#%u Temperature: %f, Humidity: %f, Pressure: %f\n", sensor.count,
 (double) sensor.temperature,
 (double) sensor.humidity, (double) sensor.pressure);
 #if WITH_CONTROLLER_REPLY
